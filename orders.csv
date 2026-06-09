@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,region,product_category,product_name,quantity,unit_price,order_value,status
+1033,2024-01-01,C031,North America,Furniture,Monitor Arm,6,55.26,331.56,completed
+1201,2024-01-01,C126,APAC,Office Supplies,Desk Organiser,1,33.04,33.04,completed
+1977,2024-01-01,C098,APAC,Furniture,Desk Lamp,3,99.31,297.93,completed
+2141,2024-01-01,C135,APAC,Furniture,Desk Lamp,5,117.7,588.5,completed
+1595,2024-01-02,C115,EMEA,Furniture,Storage Ottoman,4,89.51,358.04,completed
+1139,2024-01-03,C076,EMEA,Furniture,Storage Ottoman,4,204.59,818.36,completed
+1782,2024-01-03,C049,APAC,Furniture,Storage Ottoman,3,114.54,343.62,completed
+2149,2024-01-03,C031,APAC,Office Supplies,Document Folder,6,42.53,255.18,completed
+2188,2024-01-03,C034,North America,Electronics,Bluetooth Speaker,2,197.79,395.58,completed
+1658,2024-01-04,C121,LATAM,Electronics,Monitor Stand,3,136.88,410.64,completed
+1506,2024-01-05,C076,EMEA,Accessories,Phone Stand,4,78.67,314.68,returned
+1614,2024-01-05,C147,APAC,Kitchen,French Press,4,145.3,581.2,completed
+1319,2024-01-06,C130,EMEA,Furniture,Desk Lamp,1,98.38,98.38,completed
+1728,2024-01-06,C059,APAC,Kitchen,Bamboo Cutting Board,1,172.42,172.42,completed
+1254,2024-01-07,C078,EMEA,Furniture,Storage Ottoman,3,141.18,423.54,completed
+1323,2024-01-07,C043,North America,Furniture,Ergonomic Chair,1,94.97,94.97,completed
+1672,2024-01-07,C191,EMEA,Clothing,Casual Shirt,1,270.82,270.82,completed
+1235,2024-01-08,C026,APAC,Accessories,Canvas Backpack,6,50.82,304.92,completed
+1263,2024-01-08,C154,APAC,Books,Python Crash Course,4,21.06,84.24,returned
+1479,2024-01-08,C143,APAC,Clothing,Merino Wool Jumper,2,283.5,567.0,completed
+1508,2024-01-08,C052,EMEA,Electronics,Wireless Headphones,5,218.08,1090.4,returned
+1819,2024-01-08,C002,LATAM,Accessories,Canvas Backpack,2,44.52,89.04,pending
+1223,2024-01-09,C117,North America,Office Supplies,Document Folder,5,32.69,163.45,returned
+1559,2024-01-09,C118,LATAM,Books,Good Strategy Bad Strategy,4,25.25,101.0,completed
+2122,2024-01-09,C168,APAC,Furniture,Desk Lamp,2,139.32,278.64,completed
+1260,2024-01-10,C013,EMEA,Clothing,Running Shorts,4,373.42,1493.68,completed
+1698,2024-01-10,C019,APAC,Electronics,Wireless Headphones,2,104.99,209.98,completed
+2092,2024-01-10,C067,EMEA,Office Supplies,Notebook Set,6,75.47,452.82,completed
+2166,2024-01-10,C021,LATAM,Furniture,Bookshelf,6,40.51,243.06,completed
+1358,2024-01-11,C064,APAC,Electronics,Webcam,4,70.2,280.8,completed
+1435,2024-01-11,C037,APAC,Clothing,Running Shorts,6,138.33,829.98,completed
+1856,2024-01-11,C195,LATAM,Furniture,Standing Desk,1,172.43,172.43,completed
+1014,2024-01-12,C056,EMEA,Books,Deep Work,5,12.92,64.6,completed
+1775,2024-01-12,C047,EMEA,Clothing,Wool Socks,1,265.35,265.35,completed
+1088,2024-01-13,C107,LATAM,Electronics,Webcam,4,161.72,646.88,completed
+1967,2024-01-13,C171,LATAM,Electronics,Mechanical Keyboard,3,66.93,200.79,completed
+1190,2024-01-14,C101,EMEA,Furniture,Monitor Arm,5,199.26,996.3,completed
+1451,2024-01-14,C012,North America,Accessories,Sunglasses,2,24.43,48.86,completed
+1453,2024-01-14,C186,North America,Books,The Design of Everyday Things,1,25.44,25.44,returned
+1504,2024-01-14,C107,LATAM,Electronics,Mechanical Keyboard,4,309.35,1237.4,completed
+1814,2024-01-14,C132,LATAM,Electronics,Laptop Sleeve,1,356.95,356.95,completed
+1885,2024-01-14,C031,APAC,Electronics,USB-C Hub,1,58.31,58.31,returned
+1892,2024-01-14,C128,North America,Office Supplies,Document Folder,4,23.1,92.4,completed
+2086,2024-01-14,C028,EMEA,Office Supplies,Document Folder,2,29.91,59.82,returned
+1399,2024-01-15,C135,EMEA,Electronics,Webcam,3,186.12,558.36,completed
+1199,2024-01-16,C138,APAC,Furniture,Storage Ottoman,3,124.41,373.23,completed
+1544,2024-01-16,C022,APAC,Furniture,Desk Lamp,3,142.57,427.71,completed
+1634,2024-01-16,C114,LATAM,Accessories,Canvas Backpack,1,38.14,38.14,completed
+2016,2024-01-16,C128,LATAM,Office Supplies,Cable Ties,6,63.43,380.58,completed
+1561,2024-01-17,C105,North America,Clothing,Merino Wool Jumper,2,360.47,720.94,completed
+1951,2024-01-17,C125,APAC,Books,The Lean Startup,6,37.86,227.16,returned
+1279,2024-01-18,C200,LATAM,Clothing,Canvas Tote,5,306.87,1534.35,completed
+1536,2024-01-18,C107,APAC,Electronics,Mechanical Keyboard,4,289.32,1157.28,completed
+1926,2024-01-18,C017,North America,Office Supplies,Cable Ties,5,39.67,198.35,pending
+1062,2024-01-19,C028,EMEA,Electronics,Monitor Stand,5,225.66,1128.3,completed
+1316,2024-01-19,C184,North America,Furniture,Ergonomic Chair,3,112.13,336.39,completed
+1517,2024-01-19,C152,LATAM,Clothing,Canvas Tote,3,160.22,480.66,completed
+1690,2024-01-19,C117,LATAM,Furniture,Filing Cabinet,6,54.0,324.0,completed
+1854,2024-01-19,C096,LATAM,Kitchen,Pour-over Coffee Set,4,52.38,209.52,pending
+1910,2024-01-19,C058,LATAM,Clothing,Casual Shirt,6,452.43,2714.58,completed
+1157,2024-01-20,C161,APAC,Accessories,Travel Mug,4,85.15,340.6,completed
+1831,2024-01-20,C015,LATAM,Furniture,Monitor Arm,1,68.03,68.03,completed
+1011,2024-01-21,C128,North America,Books,The Lean Startup,3,37.2,111.6,completed
+2114,2024-01-21,C008,North America,Electronics,Mechanical Keyboard,2,285.44,570.88,completed
+1045,2024-01-22,C114,LATAM,Kitchen,Reusable Containers,5,26.4,132.0,completed
+1669,2024-01-22,C118,EMEA,Kitchen,Bamboo Cutting Board,6,57.85,347.1,completed
+2156,2024-01-22,C099,LATAM,Kitchen,Chef Knife,5,58.28,291.4,completed
+1074,2024-01-23,C036,LATAM,Kitchen,Chef Knife,6,132.77,796.62,completed
+1277,2024-01-23,C021,North America,Books,Thinking Fast and Slow,1,23.61,23.61,completed
+2082,2024-01-23,C087,North America,Electronics,Webcam,5,119.08,595.4,completed
+2180,2024-01-23,C113,EMEA,Books,Good Strategy Bad Strategy,2,14.91,29.82,completed
+1175,2024-01-24,C137,North America,Electronics,Wireless Headphones,3,89.35,268.05,completed
+1321,2024-01-24,C160,APAC,Kitchen,Pour-over Coffee Set,6,120.11,720.66,completed
+1572,2024-01-24,C198,North America,Books,Atomic Habits,6,40.02,240.12,completed
+1787,2024-01-24,C151,APAC,Electronics,Laptop Sleeve,5,203.3,1016.5,completed
+2032,2024-01-24,C039,APAC,Accessories,Leather Wallet,3,57.12,171.36,completed
+1092,2024-01-25,C069,North America,Clothing,Merino Wool Jumper,6,454.24,2725.44,completed
+1172,2024-01-25,C170,North America,Clothing,Running Shorts,3,335.7,1007.1,completed
+1886,2024-01-26,C053,North America,Electronics,USB-C Hub,3,390.44,1171.32,completed
+1150,2024-01-27,C189,LATAM,Office Supplies,Cable Ties,1,49.25,49.25,completed
+1186,2024-01-27,C068,LATAM,Clothing,Running Shorts,6,395.38,2372.28,completed
+1720,2024-01-27,C081,EMEA,Electronics,Laptop Sleeve,5,89.42,447.1,completed
+1753,2024-01-27,C174,LATAM,Furniture,Ergonomic Chair,1,196.34,196.34,completed
+1700,2024-01-29,C014,EMEA,Books,Deep Work,3,11.84,35.52,completed
+1711,2024-01-29,C061,APAC,Kitchen,Bamboo Cutting Board,3,29.75,89.25,completed
+1331,2024-01-30,C169,APAC,Kitchen,Ceramic Mug Set,5,159.66,798.3,completed
+1653,2024-01-30,C017,APAC,Furniture,Monitor Arm,5,145.06,725.3,completed
+1743,2024-01-30,C020,LATAM,Clothing,Wool Socks,2,232.24,464.48,returned
+1875,2024-01-30,C128,North America,Electronics,Bluetooth Speaker,6,198.55,1191.3,completed
+2031,2024-01-30,C049,EMEA,Clothing,Wool Socks,4,287.08,1148.32,completed
+1285,2024-01-31,C190,APAC,Books,The Lean Startup,3,41.03,123.09,returned
+1388,2024-01-31,C036,LATAM,Electronics,USB-C Hub,1,124.52,124.52,completed
+1410,2024-01-31,C124,North America,Accessories,Travel Mug,5,81.97,409.85,completed
+1663,2024-01-31,C081,APAC,Books,The Design of Everyday Things,2,29.9,59.8,completed
+2161,2024-01-31,C171,EMEA,Kitchen,Ceramic Mug Set,4,69.65,278.6,completed
+1013,2024-02-01,C089,LATAM,Accessories,Travel Mug,3,98.26,294.78,completed
+1308,2024-02-01,C138,LATAM,Clothing,Merino Wool Jumper,4,285.33,1141.32,completed
+1332,2024-02-01,C134,LATAM,Furniture,Storage Ottoman,3,172.37,517.11,completed
+1546,2024-02-01,C198,North America,Kitchen,Pour-over Coffee Set,1,28.51,28.51,completed
+1718,2024-02-02,C170,APAC,Furniture,Desk Lamp,3,158.37,475.11,pending
+2041,2024-02-02,C125,APAC,Books,The Lean Startup,5,13.31,66.55,completed
+2118,2024-02-02,C001,North America,Furniture,Monitor Arm,2,208.59,417.18,completed
+1164,2024-02-03,C074,APAC,Books,Python Crash Course,2,13.53,27.06,completed
+1791,2024-02-03,C135,North America,Accessories,Travel Mug,2,121.03,242.06,completed
+1161,2024-02-04,C131,North America,Electronics,Webcam,1,346.84,346.84,completed
+1257,2024-02-04,C027,EMEA,Electronics,Webcam,4,334.86,1339.44,completed
+1446,2024-02-04,C006,EMEA,Kitchen,Bamboo Cutting Board,3,163.84,491.52,completed
+1661,2024-02-04,C015,LATAM,Clothing,Casual Shirt,2,454.64,909.28,completed
+1666,2024-02-04,C161,LATAM,Electronics,Webcam,3,116.59,349.77,completed
+1867,2024-02-04,C130,EMEA,Electronics,Wireless Headphones,3,51.78,155.34,completed
+1990,2024-02-04,C084,North America,Clothing,Chino Trousers,6,126.9,761.4,completed
+1228,2024-02-05,C058,EMEA,Kitchen,Chef Knife,4,123.47,493.88,returned
+1307,2024-02-06,C148,EMEA,Electronics,Monitor Stand,3,338.28,1014.84,completed
+1439,2024-02-06,C063,North America,Clothing,Canvas Tote,6,225.06,1350.36,completed
+1662,2024-02-06,C029,EMEA,Furniture,Filing Cabinet,5,150.01,750.05,completed
+2140,2024-02-06,C120,EMEA,Clothing,Casual Shirt,6,264.92,1589.52,completed
+2185,2024-02-06,C136,LATAM,Books,Thinking Fast and Slow,3,28.08,84.24,completed
+1010,2024-02-07,C108,EMEA,Electronics,Webcam,3,106.23,318.69,completed
+1049,2024-02-07,C170,APAC,Clothing,Chino Trousers,2,455.8,911.6,completed
+1226,2024-02-08,C078,North America,Furniture,Filing Cabinet,5,87.73,438.65,completed
+1714,2024-02-08,C172,LATAM,Electronics,Wireless Headphones,4,228.91,915.64,completed
+2157,2024-02-09,C184,North America,Electronics,Wireless Headphones,5,95.63,478.15,completed
+1503,2024-02-10,C194,LATAM,Accessories,Sunglasses,5,64.45,322.25,completed
+1417,2024-02-11,C141,APAC,Kitchen,Chef Knife,4,43.22,172.88,completed
+1670,2024-02-11,C050,APAC,Furniture,Storage Ottoman,3,119.02,357.06,completed
+1258,2024-02-12,C003,EMEA,Accessories,Canvas Backpack,6,19.74,118.44,completed
+1396,2024-02-12,C126,North America,Accessories,Travel Mug,1,90.25,90.25,completed
+1610,2024-02-12,C028,North America,Books,Good Strategy Bad Strategy,4,45.69,182.76,completed
+1947,2024-02-12,C004,APAC,Clothing,Casual Shirt,4,167.97,671.88,completed
+1995,2024-02-13,C074,EMEA,Books,Python Crash Course,3,25.23,75.69,completed
+1123,2024-02-14,C050,EMEA,Electronics,Webcam,3,250.37,751.11,completed
+1326,2024-02-14,C167,LATAM,Accessories,Travel Mug,5,95.82,479.1,completed
+1452,2024-02-14,C004,LATAM,Office Supplies,Desk Organiser,5,36.77,183.85,completed
+1484,2024-02-14,C143,APAC,Kitchen,French Press,6,29.82,178.92,returned
+1630,2024-02-14,C080,APAC,Accessories,Key Organiser,1,59.17,59.17,completed
+1717,2024-02-14,C034,EMEA,Office Supplies,Desk Organiser,1,69.79,69.79,completed
+1907,2024-02-14,C058,North America,Clothing,Waterproof Jacket,1,200.05,200.05,completed
+2158,2024-02-14,C159,APAC,Accessories,Umbrella,2,22.12,44.24,completed
+1600,2024-02-15,C058,LATAM,Office Supplies,Sticky Notes,5,76.73,383.65,completed
+2107,2024-02-15,C021,EMEA,Office Supplies,Desk Organiser,3,55.15,165.45,completed
+1100,2024-02-16,C146,APAC,Electronics,Mechanical Keyboard,3,138.48,415.44,completed
+1460,2024-02-16,C053,EMEA,Books,The Design of Everyday Things,1,10.53,10.53,completed
+1723,2024-02-16,C155,LATAM,Clothing,Wool Socks,4,170.59,682.36,completed
+1888,2024-02-16,C098,LATAM,Books,Python Crash Course,5,33.23,166.15,completed
+1919,2024-02-16,C181,North America,Accessories,Leather Wallet,1,105.28,105.28,completed
+1987,2024-02-16,C014,APAC,Books,Thinking Fast and Slow,2,18.37,36.74,completed
+1079,2024-02-17,C061,LATAM,Accessories,Leather Wallet,3,108.63,325.89,completed
+1705,2024-02-17,C056,LATAM,Kitchen,Spice Rack,2,24.08,48.16,completed
+1750,2024-02-17,C138,North America,Kitchen,French Press,6,48.14,288.84,completed
+1415,2024-02-18,C118,North America,Clothing,Wool Socks,6,275.71,1654.26,completed
+1898,2024-02-18,C183,LATAM,Kitchen,Chef Knife,4,91.0,364.0,completed
+1931,2024-02-19,C026,LATAM,Office Supplies,Cable Ties,3,51.03,153.09,completed
+1939,2024-02-19,C136,APAC,Clothing,Canvas Tote,2,270.26,540.52,completed
+1357,2024-02-20,C099,APAC,Kitchen,Reusable Containers,3,52.28,156.84,completed
+1617,2024-02-20,C163,EMEA,Office Supplies,Gel Pen Pack,4,40.86,163.44,completed
+1023,2024-02-21,C097,APAC,Books,The Design of Everyday Things,1,44.72,44.72,completed
+1145,2024-02-21,C042,EMEA,Kitchen,Chef Knife,6,106.37,638.22,completed
+1425,2024-02-21,C063,APAC,Clothing,Chino Trousers,1,450.14,450.14,completed
+1459,2024-02-21,C103,North America,Accessories,Key Organiser,2,128.83,257.66,completed
+1736,2024-02-21,C018,APAC,Electronics,Wireless Headphones,2,186.91,373.82,completed
+1760,2024-02-21,C166,North America,Clothing,Casual Shirt,3,361.98,1085.94,completed
+1810,2024-02-21,C023,APAC,Books,Python Crash Course,3,10.07,30.21,completed
+1869,2024-02-21,C054,APAC,Furniture,Filing Cabinet,3,92.24,276.72,completed
+2134,2024-02-21,C019,LATAM,Accessories,Leather Wallet,5,120.83,604.15,completed
+1006,2024-02-22,C017,EMEA,Office Supplies,Cable Ties,3,15.02,45.06,returned
+1212,2024-02-22,C078,APAC,Electronics,Monitor Stand,2,192.17,384.34,completed
+1419,2024-02-22,C145,LATAM,Furniture,Monitor Arm,5,70.83,354.15,completed
+1827,2024-02-22,C172,EMEA,Office Supplies,Cable Ties,5,37.12,185.6,completed
+1927,2024-02-22,C097,LATAM,Books,The Lean Startup,3,29.26,87.78,completed
+1969,2024-02-22,C146,APAC,Clothing,Canvas Tote,3,202.77,608.31,completed
+1170,2024-02-23,C097,LATAM,Clothing,Running Shorts,6,399.07,2394.42,completed
+1350,2024-02-24,C079,APAC,Clothing,Wool Socks,6,244.57,1467.42,completed
+1772,2024-02-24,C011,APAC,Books,The Design of Everyday Things,2,26.23,52.46,completed
+1706,2024-02-25,C137,EMEA,Kitchen,Spice Rack,3,101.21,303.63,completed
+1476,2024-02-26,C058,EMEA,Electronics,Webcam,5,208.54,1042.7,completed
+1585,2024-02-26,C031,EMEA,Books,Atomic Habits,6,34.62,207.72,returned
+1752,2024-02-26,C131,EMEA,Accessories,Phone Stand,3,111.64,334.92,completed
+1923,2024-02-26,C040,LATAM,Office Supplies,Cable Ties,3,70.92,212.76,completed
+1495,2024-02-27,C034,EMEA,Furniture,Filing Cabinet,5,66.98,334.9,returned
+1656,2024-02-27,C008,EMEA,Kitchen,French Press,3,142.21,426.63,pending
+1149,2024-02-28,C004,North America,Kitchen,Spice Rack,4,144.14,576.56,completed
+1427,2024-02-28,C039,APAC,Kitchen,Spice Rack,1,148.51,148.51,completed
+1632,2024-02-28,C157,EMEA,Accessories,Key Organiser,5,61.16,305.8,completed
+2057,2024-02-28,C062,EMEA,Furniture,Filing Cabinet,5,61.59,307.95,completed
+1239,2024-02-29,C127,LATAM,Office Supplies,Desk Organiser,2,67.55,135.1,completed
+1839,2024-02-29,C011,APAC,Electronics,Webcam,6,131.77,790.62,completed
+1660,2024-03-01,C049,EMEA,Furniture,Standing Desk,4,119.25,477.0,completed
+2091,2024-03-01,C105,APAC,Office Supplies,Whiteboard Markers,2,71.01,142.02,completed
+1090,2024-03-02,C017,APAC,Books,Atomic Habits,6,20.17,121.02,completed
+1324,2024-03-02,C038,North America,Electronics,Mechanical Keyboard,1,222.57,222.57,completed
+1818,2024-03-04,C140,APAC,Electronics,Mechanical Keyboard,5,233.73,1168.65,completed
+2067,2024-03-04,C132,EMEA,Clothing,Waterproof Jacket,3,294.32,882.96,completed
+1108,2024-03-05,C163,North America,Clothing,Merino Wool Jumper,2,330.59,661.18,completed
+1834,2024-03-05,C179,LATAM,Electronics,Webcam,2,294.2,588.4,completed
+2163,2024-03-05,C002,EMEA,Electronics,Bluetooth Speaker,1,109.57,109.57,completed
+2195,2024-03-05,C039,EMEA,Electronics,Bluetooth Speaker,5,234.02,1170.1,completed
+1366,2024-03-07,C041,EMEA,Electronics,USB-C Hub,5,214.02,1070.1,completed
+2030,2024-03-07,C171,LATAM,Office Supplies,Document Folder,3,69.98,209.94,completed
+1665,2024-03-08,C093,North America,Electronics,Webcam,1,125.97,125.97,completed
+2047,2024-03-08,C118,North America,Furniture,Filing Cabinet,3,55.3,165.9,completed
+2129,2024-03-08,C007,EMEA,Electronics,Webcam,6,51.92,311.52,pending
+1005,2024-03-09,C047,APAC,Clothing,Waterproof Jacket,5,203.39,1016.95,returned
+1177,2024-03-09,C017,EMEA,Electronics,Laptop Sleeve,6,105.25,631.5,completed
+1305,2024-03-09,C010,EMEA,Kitchen,Bamboo Cutting Board,2,110.97,221.94,completed
+1309,2024-03-09,C080,EMEA,Electronics,Wireless Headphones,5,117.49,587.45,completed
+1524,2024-03-09,C082,LATAM,Electronics,Laptop Sleeve,3,330.52,991.56,completed
+1613,2024-03-09,C008,EMEA,Electronics,Wireless Headphones,6,266.58,1599.48,completed
+1879,2024-03-09,C147,EMEA,Clothing,Chino Trousers,5,469.42,2347.1,pending
+1978,2024-03-09,C130,APAC,Books,The Design of Everyday Things,5,44.88,224.4,completed
+1389,2024-03-10,C132,LATAM,Accessories,Sunglasses,2,97.03,194.06,completed
+1797,2024-03-10,C067,APAC,Accessories,Key Organiser,6,38.82,232.92,completed
+1048,2024-03-11,C110,LATAM,Furniture,Filing Cabinet,3,53.06,159.18,completed
+1655,2024-03-11,C170,North America,Furniture,Monitor Arm,3,105.92,317.76,completed
+1677,2024-03-11,C036,APAC,Clothing,Running Shorts,3,464.1,1392.3,completed
+1961,2024-03-11,C126,LATAM,Kitchen,Reusable Containers,2,75.62,151.24,completed
+2019,2024-03-11,C048,EMEA,Office Supplies,Sticky Notes,3,46.53,139.59,completed
+1299,2024-03-12,C105,North America,Furniture,Storage Ottoman,2,104.82,209.64,completed
+1437,2024-03-12,C147,APAC,Books,The Lean Startup,2,40.52,81.04,completed
+1510,2024-03-12,C049,APAC,Books,Good Strategy Bad Strategy,6,14.11,84.66,completed
+1734,2024-03-12,C121,APAC,Kitchen,Chef Knife,5,176.71,883.55,completed
+1771,2024-03-12,C188,EMEA,Electronics,Bluetooth Speaker,1,211.55,211.55,completed
+1043,2024-03-13,C133,APAC,Furniture,Monitor Arm,5,51.12,255.6,returned
+1182,2024-03-13,C017,LATAM,Furniture,Desk Lamp,5,71.44,357.2,completed
+1515,2024-03-13,C143,North America,Furniture,Storage Ottoman,2,122.16,244.32,returned
+1647,2024-03-13,C071,LATAM,Office Supplies,Cable Ties,6,77.81,466.86,returned
+2147,2024-03-13,C137,LATAM,Office Supplies,Gel Pen Pack,3,49.12,147.36,pending
+1292,2024-03-14,C038,APAC,Clothing,Wool Socks,2,365.49,730.98,completed
+1406,2024-03-14,C017,APAC,Clothing,Wool Socks,5,364.31,1821.55,completed
+1979,2024-03-14,C079,APAC,Furniture,Storage Ottoman,2,199.71,399.42,completed
+2124,2024-03-14,C184,LATAM,Books,Python Crash Course,4,41.37,165.48,completed
+1019,2024-03-15,C159,North America,Furniture,Bookshelf,2,164.29,328.58,completed
+1037,2024-03-15,C141,LATAM,Office Supplies,Whiteboard Markers,6,75.5,453.0,completed
+1229,2024-03-15,C141,LATAM,Clothing,Wool Socks,4,478.46,1913.84,pending
+1560,2024-03-15,C159,APAC,Clothing,Waterproof Jacket,3,237.55,712.65,completed
+1759,2024-03-15,C104,APAC,Furniture,Standing Desk,3,166.24,498.72,completed
+1027,2024-03-16,C067,North America,Accessories,Leather Wallet,6,114.69,688.14,returned
+1815,2024-03-16,C160,APAC,Furniture,Storage Ottoman,1,218.91,218.91,completed
+2056,2024-03-16,C083,North America,Furniture,Bookshelf,5,56.26,281.3,completed
+1024,2024-03-17,C120,North America,Office Supplies,Desk Organiser,4,16.84,67.36,completed
+1056,2024-03-17,C015,LATAM,Office Supplies,Whiteboard Markers,6,31.55,189.3,completed
+1156,2024-03-17,C173,EMEA,Clothing,Wool Socks,1,433.55,433.55,pending
+1539,2024-03-17,C138,EMEA,Clothing,Merino Wool Jumper,1,141.23,141.23,completed
+1590,2024-03-18,C009,EMEA,Clothing,Canvas Tote,5,129.98,649.9,completed
+1680,2024-03-18,C005,LATAM,Books,Deep Work,1,10.17,10.17,completed
+1712,2024-03-18,C031,EMEA,Electronics,Monitor Stand,4,61.18,244.72,completed
+1761,2024-03-18,C123,APAC,Furniture,Storage Ottoman,1,192.91,192.91,returned
+1137,2024-03-19,C063,EMEA,Clothing,Running Shorts,3,105.92,317.76,completed
+1278,2024-03-20,C025,North America,Clothing,Merino Wool Jumper,3,287.78,863.34,completed
+1946,2024-03-20,C078,EMEA,Electronics,Mechanical Keyboard,3,409.02,1227.06,completed
+1826,2024-03-21,C013,APAC,Kitchen,French Press,3,102.09,306.27,completed
+1905,2024-03-21,C016,North America,Accessories,Canvas Backpack,5,109.0,545.0,completed
+1915,2024-03-21,C187,EMEA,Kitchen,Spice Rack,3,90.58,271.74,completed
+1036,2024-03-22,C168,APAC,Electronics,Bluetooth Speaker,2,268.6,537.2,completed
+1132,2024-03-22,C042,APAC,Clothing,Merino Wool Jumper,4,301.04,1204.16,completed
+1284,2024-03-22,C091,EMEA,Furniture,Standing Desk,2,46.95,93.9,completed
+1060,2024-03-23,C195,EMEA,Clothing,Waterproof Jacket,3,331.47,994.41,completed
+1154,2024-03-23,C122,EMEA,Accessories,Key Organiser,5,63.3,316.5,completed
+1462,2024-03-23,C055,EMEA,Office Supplies,Desk Organiser,4,78.73,314.92,completed
+1770,2024-03-23,C189,APAC,Books,Thinking Fast and Slow,1,16.11,16.11,completed
+1784,2024-03-23,C171,EMEA,Clothing,Casual Shirt,3,477.4,1432.2,completed
+1799,2024-03-23,C160,North America,Books,The Design of Everyday Things,1,34.49,34.49,completed
+1953,2024-03-23,C075,North America,Clothing,Wool Socks,5,253.49,1267.45,completed
+1022,2024-03-24,C138,APAC,Electronics,Mechanical Keyboard,1,50.09,50.09,completed
+1306,2024-03-24,C133,APAC,Accessories,Umbrella,3,76.22,228.66,completed
+1636,2024-03-24,C193,LATAM,Furniture,Monitor Arm,5,190.63,953.15,pending
+1721,2024-03-24,C196,LATAM,Kitchen,Reusable Containers,2,59.87,119.74,completed
+1165,2024-03-25,C194,EMEA,Accessories,Phone Stand,1,111.3,111.3,completed
+1264,2024-03-25,C148,LATAM,Books,Good Strategy Bad Strategy,5,10.51,52.55,completed
+1315,2024-03-25,C135,LATAM,Books,The Lean Startup,6,25.66,153.96,completed
+1447,2024-03-25,C052,APAC,Office Supplies,Gel Pen Pack,2,11.43,22.86,completed
+1554,2024-03-25,C168,North America,Furniture,Storage Ottoman,6,212.97,1277.82,completed
+2152,2024-03-25,C058,APAC,Books,Good Strategy Bad Strategy,1,15.4,15.4,completed
+1016,2024-03-26,C072,North America,Furniture,Desk Lamp,2,187.47,374.94,completed
+1098,2024-03-26,C141,EMEA,Accessories,Leather Wallet,5,119.47,597.35,completed
+1423,2024-03-27,C032,North America,Furniture,Storage Ottoman,6,162.49,974.94,completed
+1538,2024-03-27,C078,North America,Accessories,Leather Wallet,1,112.34,112.34,completed
+1619,2024-03-27,C121,EMEA,Furniture,Monitor Arm,6,156.92,941.52,returned
+1096,2024-03-28,C168,North America,Furniture,Bookshelf,3,86.03,258.09,returned
+1945,2024-03-28,C135,EMEA,Electronics,Mechanical Keyboard,4,174.53,698.12,completed
+1362,2024-03-29,C102,EMEA,Electronics,Webcam,1,409.47,409.47,completed
+1599,2024-03-29,C071,North America,Electronics,Mechanical Keyboard,4,188.53,754.12,completed
+1649,2024-03-29,C008,APAC,Furniture,Monitor Arm,4,101.62,406.48,completed
+1997,2024-03-29,C071,APAC,Books,Python Crash Course,4,37.79,151.16,completed
+1301,2024-03-30,C071,APAC,Clothing,Merino Wool Jumper,5,372.34,1861.7,pending
+1302,2024-03-30,C017,EMEA,Clothing,Running Shorts,5,203.22,1016.1,completed
+1565,2024-03-30,C189,LATAM,Electronics,Bluetooth Speaker,5,349.48,1747.4,completed
+1778,2024-03-30,C115,North America,Electronics,Bluetooth Speaker,6,322.75,1936.5,completed
+1938,2024-03-30,C167,EMEA,Furniture,Monitor Arm,4,123.26,493.04,returned
+2084,2024-03-30,C108,LATAM,Electronics,USB-C Hub,2,254.84,509.68,returned
+2153,2024-03-30,C033,LATAM,Clothing,Chino Trousers,1,218.32,218.32,completed
+1376,2024-03-31,C180,North America,Electronics,Monitor Stand,4,59.35,237.4,returned
+1643,2024-03-31,C193,EMEA,Office Supplies,Whiteboard Markers,6,76.26,457.56,completed
+2040,2024-03-31,C187,North America,Electronics,Laptop Sleeve,6,265.2,1591.2,completed
+1445,2024-04-01,C110,LATAM,Clothing,Chino Trousers,3,468.22,1404.66,returned
+1774,2024-04-01,C010,APAC,Office Supplies,Desk Organiser,1,12.03,12.03,completed
+1920,2024-04-01,C077,LATAM,Office Supplies,Cable Ties,1,16.48,16.48,completed
+1055,2024-04-02,C104,LATAM,Clothing,Waterproof Jacket,6,407.59,2445.54,completed
+1243,2024-04-02,C189,APAC,Office Supplies,Cable Ties,1,51.9,51.9,returned
+1281,2024-04-02,C118,APAC,Furniture,Ergonomic Chair,1,140.33,140.33,returned
+1130,2024-04-03,C061,North America,Electronics,Monitor Stand,6,335.94,2015.64,completed
+1155,2024-04-03,C032,LATAM,Office Supplies,Notebook Set,5,19.27,96.35,completed
+1548,2024-04-03,C038,LATAM,Electronics,Webcam,1,82.58,82.58,completed
+1746,2024-04-03,C054,APAC,Electronics,Monitor Stand,5,183.83,919.15,completed
+1853,2024-04-03,C085,North America,Accessories,Travel Mug,1,121.27,121.27,completed
+1983,2024-04-03,C006,North America,Electronics,Laptop Sleeve,2,139.65,279.3,returned
+1255,2024-04-04,C014,APAC,Furniture,Bookshelf,4,141.94,567.76,completed
+1563,2024-04-04,C157,EMEA,Furniture,Bookshelf,3,70.13,210.39,completed
+1742,2024-04-04,C155,North America,Office Supplies,Document Folder,1,24.01,24.01,pending
+1835,2024-04-04,C029,APAC,Office Supplies,Cable Ties,6,64.91,389.46,completed
+1117,2024-04-05,C038,LATAM,Books,Thinking Fast and Slow,6,10.37,62.22,completed
+1587,2024-04-05,C035,LATAM,Accessories,Canvas Backpack,6,121.85,731.1,completed
+1373,2024-04-06,C195,APAC,Accessories,Leather Wallet,5,120.35,601.75,completed
+1251,2024-04-07,C097,APAC,Kitchen,Spice Rack,5,165.75,828.75,completed
+1397,2024-04-07,C074,APAC,Kitchen,Bamboo Cutting Board,3,167.29,501.87,completed
+1249,2024-04-08,C011,EMEA,Clothing,Chino Trousers,5,469.1,2345.5,completed
+1612,2024-04-08,C112,LATAM,Accessories,Key Organiser,6,99.28,595.68,completed
+1757,2024-04-08,C197,North America,Office Supplies,Notebook Set,2,38.07,76.14,completed
+2021,2024-04-08,C193,LATAM,Office Supplies,Gel Pen Pack,6,28.55,171.3,completed
+1031,2024-04-09,C021,LATAM,Accessories,Travel Mug,6,128.66,771.96,completed
+1039,2024-04-09,C062,APAC,Kitchen,Ceramic Mug Set,3,55.62,166.86,completed
+1126,2024-04-09,C012,North America,Accessories,Umbrella,3,48.5,145.5,completed
+1533,2024-04-09,C116,North America,Books,Python Crash Course,1,15.22,15.22,completed
+1604,2024-04-09,C191,APAC,Electronics,Mechanical Keyboard,4,337.65,1350.6,returned
+1833,2024-04-09,C122,LATAM,Electronics,Webcam,3,73.48,220.44,completed
+1148,2024-04-10,C109,EMEA,Furniture,Filing Cabinet,1,118.15,118.15,completed
+1605,2024-04-10,C190,North America,Kitchen,Ceramic Mug Set,6,146.21,877.26,completed
+1694,2024-04-10,C154,North America,Furniture,Storage Ottoman,6,86.04,516.24,completed
+1999,2024-04-10,C080,APAC,Accessories,Phone Stand,1,89.34,89.34,completed
+1287,2024-04-11,C096,LATAM,Accessories,Travel Mug,6,29.81,178.86,completed
+1776,2024-04-11,C084,EMEA,Office Supplies,Cable Ties,3,16.7,50.1,completed
+2020,2024-04-11,C187,North America,Books,Thinking Fast and Slow,1,12.03,12.03,completed
+2036,2024-04-11,C026,LATAM,Office Supplies,Notebook Set,6,24.14,144.84,pending
+1030,2024-04-12,C067,APAC,Furniture,Bookshelf,1,182.22,182.22,completed
+1222,2024-04-12,C132,LATAM,Furniture,Ergonomic Chair,5,76.9,384.5,completed
+2171,2024-04-12,C104,LATAM,Office Supplies,Document Folder,3,75.4,226.2,completed
+1101,2024-04-13,C054,LATAM,Books,Python Crash Course,4,25.38,101.52,completed
+1188,2024-04-13,C154,North America,Books,Python Crash Course,2,44.97,89.94,completed
+1514,2024-04-13,C150,North America,Electronics,Bluetooth Speaker,4,292.84,1171.36,returned
+2155,2024-04-13,C080,EMEA,Clothing,Casual Shirt,6,260.18,1561.08,completed
+1916,2024-04-14,C114,APAC,Electronics,Webcam,6,159.62,957.72,completed
+1937,2024-04-14,C181,EMEA,Electronics,Mechanical Keyboard,5,55.63,278.15,completed
+1061,2024-04-15,C065,EMEA,Clothing,Running Shorts,3,218.8,656.4,completed
+1080,2024-04-15,C123,LATAM,Clothing,Wool Socks,4,418.21,1672.84,completed
+1195,2024-04-15,C162,APAC,Clothing,Merino Wool Jumper,6,114.99,689.94,pending
+1206,2024-04-15,C060,EMEA,Clothing,Casual Shirt,4,472.96,1891.84,completed
+1809,2024-04-15,C074,APAC,Furniture,Monitor Arm,2,160.43,320.86,returned
+2051,2024-04-15,C143,LATAM,Electronics,Monitor Stand,4,112.07,448.28,completed
+1167,2024-04-16,C047,EMEA,Office Supplies,Whiteboard Markers,3,34.8,104.4,completed
+1349,2024-04-16,C155,LATAM,Furniture,Standing Desk,2,50.83,101.66,completed
+2017,2024-04-16,C198,EMEA,Furniture,Monitor Arm,4,216.88,867.52,completed
+2052,2024-04-16,C192,EMEA,Kitchen,Pour-over Coffee Set,4,38.85,155.4,returned
+1224,2024-04-17,C187,LATAM,Books,Atomic Habits,5,40.03,200.15,completed
+1383,2024-04-17,C192,APAC,Kitchen,Bamboo Cutting Board,4,131.76,527.04,completed
+1529,2024-04-17,C193,APAC,Books,The Design of Everyday Things,3,28.58,85.74,completed
+1813,2024-04-17,C179,North America,Books,Deep Work,6,48.59,291.54,completed
+1828,2024-04-17,C001,LATAM,Furniture,Monitor Arm,1,83.23,83.23,completed
+1894,2024-04-17,C068,EMEA,Kitchen,Ceramic Mug Set,3,112.23,336.69,completed
+1958,2024-04-17,C115,North America,Electronics,Webcam,2,401.28,802.56,returned
+1664,2024-04-18,C188,North America,Electronics,Webcam,4,391.91,1567.64,completed
+1708,2024-04-18,C053,LATAM,Office Supplies,Cable Ties,5,21.85,109.25,completed
+2075,2024-04-18,C072,LATAM,Electronics,USB-C Hub,3,271.35,814.05,completed
+1245,2024-04-19,C094,EMEA,Accessories,Phone Stand,3,28.58,85.74,completed
+1588,2024-04-19,C171,LATAM,Clothing,Merino Wool Jumper,1,280.85,280.85,completed
+1748,2024-04-19,C177,LATAM,Electronics,Monitor Stand,1,206.82,206.82,completed
+1796,2024-04-20,C048,APAC,Furniture,Filing Cabinet,6,92.38,554.28,completed
+1913,2024-04-20,C021,EMEA,Furniture,Desk Lamp,5,131.55,657.75,completed
+1069,2024-04-21,C129,North America,Clothing,Merino Wool Jumper,4,113.56,454.24,completed
+1300,2024-04-21,C183,EMEA,Clothing,Waterproof Jacket,2,288.66,577.32,completed
+1405,2024-04-21,C109,APAC,Accessories,Leather Wallet,5,113.8,569.0,completed
+2018,2024-04-21,C177,APAC,Clothing,Canvas Tote,6,183.59,1101.54,completed
+1032,2024-04-22,C157,EMEA,Electronics,Webcam,3,125.62,376.86,completed
+1099,2024-04-22,C063,LATAM,Furniture,Bookshelf,4,65.13,260.52,completed
+1623,2024-04-22,C005,LATAM,Kitchen,Pour-over Coffee Set,3,28.53,85.59,completed
+1870,2024-04-22,C071,North America,Kitchen,Bamboo Cutting Board,5,119.14,595.7,completed
+1412,2024-04-23,C143,APAC,Accessories,Sunglasses,2,91.97,183.94,completed
+1873,2024-04-23,C104,EMEA,Furniture,Standing Desk,6,135.68,814.08,completed
+1880,2024-04-23,C127,North America,Accessories,Phone Stand,5,32.14,160.7,completed
+1900,2024-04-23,C185,LATAM,Accessories,Sunglasses,3,34.68,104.04,completed
+1963,2024-04-23,C126,APAC,Clothing,Merino Wool Jumper,1,416.91,416.91,completed
+2024,2024-04-23,C007,EMEA,Clothing,Chino Trousers,4,185.18,740.72,completed
+1176,2024-04-24,C041,EMEA,Furniture,Bookshelf,2,105.92,211.84,completed
+1359,2024-04-24,C078,EMEA,Electronics,Mechanical Keyboard,3,52.28,156.84,completed
+1489,2024-04-24,C185,North America,Books,Good Strategy Bad Strategy,3,46.17,138.51,completed
+1527,2024-04-24,C048,APAC,Accessories,Phone Stand,2,70.02,140.04,returned
+1657,2024-04-24,C068,LATAM,Accessories,Canvas Backpack,3,44.98,134.94,completed
+1891,2024-04-24,C125,North America,Electronics,Webcam,4,238.64,954.56,completed
+2196,2024-04-24,C186,APAC,Furniture,Filing Cabinet,1,111.57,111.57,returned
+1333,2024-04-25,C036,EMEA,Books,Python Crash Course,4,22.15,88.6,completed
+1416,2024-04-25,C146,APAC,Office Supplies,Cable Ties,6,44.95,269.7,completed
+2001,2024-04-25,C106,APAC,Electronics,Mechanical Keyboard,5,327.24,1636.2,pending
+1414,2024-04-26,C167,APAC,Clothing,Waterproof Jacket,2,424.87,849.74,completed
+1532,2024-04-26,C089,APAC,Office Supplies,Desk Organiser,5,51.11,255.55,completed
+1740,2024-04-26,C168,North America,Clothing,Chino Trousers,6,358.36,2150.16,completed
+1850,2024-04-27,C048,APAC,Clothing,Casual Shirt,6,398.26,2389.56,returned
+1935,2024-04-27,C106,North America,Furniture,Bookshelf,6,95.45,572.7,completed
+1980,2024-04-27,C198,North America,Books,The Lean Startup,1,45.73,45.73,completed
+2132,2024-04-27,C042,APAC,Clothing,Casual Shirt,3,253.95,761.85,completed
+1018,2024-04-28,C002,LATAM,Accessories,Leather Wallet,5,38.42,192.1,completed
+1185,2024-04-28,C183,North America,Accessories,Leather Wallet,6,121.62,729.72,completed
+1340,2024-04-28,C053,North America,Electronics,USB-C Hub,5,360.12,1800.6,completed
+1801,2024-04-28,C031,EMEA,Accessories,Sunglasses,3,35.98,107.94,returned
+1993,2024-04-28,C124,EMEA,Furniture,Storage Ottoman,5,117.84,589.2,completed
+2014,2024-04-28,C144,North America,Office Supplies,Gel Pen Pack,2,60.06,120.12,completed
+2181,2024-04-28,C110,EMEA,Furniture,Filing Cabinet,6,167.75,1006.5,completed
+1140,2024-04-29,C115,EMEA,Electronics,Bluetooth Speaker,1,187.73,187.73,completed
+1668,2024-04-29,C083,EMEA,Kitchen,Chef Knife,6,79.59,477.54,completed
+1859,2024-04-29,C133,North America,Furniture,Storage Ottoman,1,46.55,46.55,completed
+1474,2024-04-30,C060,APAC,Clothing,Wool Socks,1,133.93,133.93,completed
+1589,2024-04-30,C034,EMEA,Office Supplies,Sticky Notes,5,60.47,302.35,completed
+2197,2024-04-30,C013,North America,Furniture,Desk Lamp,1,211.69,211.69,completed
+1181,2024-05-01,C051,APAC,Electronics,Laptop Sleeve,1,276.68,276.68,completed
+1365,2024-05-01,C181,APAC,Furniture,Bookshelf,3,184.88,554.64,completed
+2101,2024-05-01,C041,LATAM,Accessories,Canvas Backpack,5,116.57,582.85,completed
+2138,2024-05-01,C138,LATAM,Clothing,Wool Socks,5,455.53,2277.65,completed
+1189,2024-05-02,C002,LATAM,Furniture,Storage Ottoman,4,191.15,764.6,returned
+1402,2024-05-02,C109,LATAM,Electronics,Wireless Headphones,1,399.63,399.63,completed
+1424,2024-05-02,C091,North America,Furniture,Monitor Arm,6,128.02,768.12,completed
+1483,2024-05-02,C030,LATAM,Office Supplies,Desk Organiser,2,67.44,134.88,completed
+1003,2024-05-03,C162,APAC,Electronics,Webcam,5,95.81,479.05,completed
+1820,2024-05-03,C100,EMEA,Books,Deep Work,1,43.06,43.06,completed
+2111,2024-05-03,C136,LATAM,Clothing,Merino Wool Jumper,3,194.57,583.71,completed
+2135,2024-05-03,C106,EMEA,Accessories,Travel Mug,1,86.53,86.53,pending
+2175,2024-05-03,C168,APAC,Clothing,Casual Shirt,4,220.1,880.4,completed
+1009,2024-05-04,C156,LATAM,Electronics,USB-C Hub,3,319.89,959.67,completed
+1216,2024-05-04,C199,LATAM,Books,Thinking Fast and Slow,2,36.05,72.1,completed
+1584,2024-05-04,C183,APAC,Books,The Design of Everyday Things,5,36.48,182.4,completed
+1622,2024-05-04,C062,APAC,Electronics,Bluetooth Speaker,1,222.62,222.62,completed
+2044,2024-05-04,C001,North America,Electronics,Monitor Stand,2,230.09,460.18,completed
+2165,2024-05-04,C038,LATAM,Kitchen,Ceramic Mug Set,3,78.86,236.58,completed
+1078,2024-05-05,C138,LATAM,Furniture,Ergonomic Chair,1,174.69,174.69,completed
+1973,2024-05-05,C058,EMEA,Electronics,Monitor Stand,3,138.09,414.27,completed
+1975,2024-05-06,C143,North America,Furniture,Filing Cabinet,2,184.61,369.22,completed
+1180,2024-05-07,C048,APAC,Electronics,Wireless Headphones,1,246.67,246.67,completed
+1469,2024-05-07,C189,LATAM,Electronics,Monitor Stand,2,264.31,528.62,completed
+1310,2024-05-08,C050,APAC,Office Supplies,Notebook Set,1,74.69,74.69,returned
+2066,2024-05-08,C115,EMEA,Furniture,Desk Lamp,6,130.04,780.24,completed
+2198,2024-05-08,C150,EMEA,Kitchen,Ceramic Mug Set,6,43.65,261.9,completed
+1166,2024-05-09,C123,North America,Electronics,Mechanical Keyboard,4,103.12,412.48,completed
+1497,2024-05-09,C046,APAC,Electronics,Bluetooth Speaker,5,146.08,730.4,completed
+1732,2024-05-09,C062,LATAM,Furniture,Bookshelf,4,191.15,764.6,completed
+1949,2024-05-09,C171,APAC,Clothing,Running Shorts,4,363.91,1455.64,completed
+1066,2024-05-10,C172,APAC,Furniture,Ergonomic Chair,6,191.43,1148.58,completed
+1426,2024-05-10,C113,LATAM,Clothing,Wool Socks,1,415.26,415.26,completed
+1512,2024-05-10,C014,LATAM,Accessories,Travel Mug,5,117.21,586.05,returned
+1635,2024-05-10,C025,North America,Accessories,Travel Mug,3,21.18,63.54,completed
+1751,2024-05-10,C150,EMEA,Clothing,Canvas Tote,2,321.17,642.34,completed
+1209,2024-05-11,C061,North America,Office Supplies,Gel Pen Pack,4,54.27,217.08,returned
+1288,2024-05-11,C037,LATAM,Furniture,Bookshelf,4,70.34,281.36,completed
+1541,2024-05-11,C062,North America,Furniture,Standing Desk,4,139.95,559.8,completed
+1685,2024-05-11,C173,APAC,Accessories,Leather Wallet,5,94.43,472.15,completed
+1645,2024-05-12,C178,EMEA,Office Supplies,Cable Ties,6,13.0,78.0,completed
+1749,2024-05-12,C014,LATAM,Office Supplies,Gel Pen Pack,2,44.95,89.9,completed
+1795,2024-05-12,C009,LATAM,Kitchen,Pour-over Coffee Set,4,26.04,104.16,completed
+1874,2024-05-12,C188,LATAM,Clothing,Canvas Tote,2,412.76,825.52,completed
+1877,2024-05-12,C169,EMEA,Kitchen,Reusable Containers,6,118.86,713.16,completed
+1097,2024-05-13,C031,North America,Furniture,Standing Desk,4,140.32,561.28,completed
+1297,2024-05-13,C015,APAC,Books,Atomic Habits,4,20.16,80.64,completed
+1311,2024-05-13,C027,LATAM,Electronics,Mechanical Keyboard,5,138.2,691.0,completed
+1127,2024-05-14,C194,North America,Accessories,Phone Stand,3,51.31,153.93,returned
+2069,2024-05-14,C055,EMEA,Accessories,Canvas Backpack,5,39.55,197.75,completed
+1468,2024-05-16,C125,North America,Books,Atomic Habits,3,11.71,35.13,completed
+1488,2024-05-16,C171,North America,Office Supplies,Cable Ties,1,53.28,53.28,completed
+2068,2024-05-16,C076,North America,Clothing,Running Shorts,4,392.92,1571.68,completed
+1270,2024-05-17,C038,APAC,Furniture,Desk Lamp,3,189.98,569.94,completed
+2083,2024-05-17,C142,North America,Clothing,Waterproof Jacket,2,310.93,621.86,completed
+2150,2024-05-17,C176,EMEA,Electronics,Wireless Headphones,4,367.08,1468.32,completed
+1371,2024-05-18,C038,LATAM,Accessories,Key Organiser,1,91.64,91.64,completed
+1890,2024-05-18,C012,EMEA,Accessories,Key Organiser,2,95.84,191.68,completed
+2043,2024-05-18,C054,EMEA,Office Supplies,Desk Organiser,4,79.63,318.52,returned
+1322,2024-05-19,C134,APAC,Office Supplies,Document Folder,5,15.24,76.2,completed
+1436,2024-05-19,C150,North America,Furniture,Ergonomic Chair,3,142.41,427.23,completed
+1271,2024-05-20,C142,LATAM,Books,Good Strategy Bad Strategy,3,30.45,91.35,completed
+2097,2024-05-20,C169,North America,Electronics,Wireless Headphones,6,81.34,488.04,completed
+1789,2024-05-21,C021,LATAM,Kitchen,Reusable Containers,4,161.45,645.8,completed
+1895,2024-05-21,C056,LATAM,Clothing,Merino Wool Jumper,3,230.75,692.25,completed
+1651,2024-05-22,C169,EMEA,Office Supplies,Document Folder,1,73.15,73.15,completed
+1087,2024-05-23,C101,North America,Books,Python Crash Course,2,28.91,57.82,completed
+1232,2024-05-23,C160,North America,Clothing,Wool Socks,3,271.82,815.46,completed
+1280,2024-05-23,C052,EMEA,Furniture,Filing Cabinet,3,191.87,575.61,completed
+1811,2024-05-23,C151,APAC,Clothing,Running Shorts,5,246.3,1231.5,returned
+1067,2024-05-24,C069,North America,Office Supplies,Cable Ties,1,41.08,41.08,completed
+1985,2024-05-24,C024,LATAM,Books,Python Crash Course,5,14.7,73.5,completed
+2187,2024-05-24,C155,North America,Electronics,Laptop Sleeve,3,324.72,974.16,completed
+1871,2024-05-25,C165,North America,Kitchen,Reusable Containers,1,79.83,79.83,completed
+1918,2024-05-26,C030,North America,Electronics,USB-C Hub,5,304.72,1523.6,completed
+1015,2024-05-27,C021,LATAM,Electronics,Bluetooth Speaker,4,389.22,1556.88,completed
+1724,2024-05-27,C050,EMEA,Accessories,Sunglasses,6,106.19,637.14,pending
+1830,2024-05-27,C057,EMEA,Books,Deep Work,3,35.78,107.34,completed
+1976,2024-05-27,C042,North America,Books,The Lean Startup,4,10.2,40.8,completed
+1085,2024-05-28,C020,LATAM,Furniture,Storage Ottoman,3,109.63,328.89,completed
+1395,2024-05-28,C125,APAC,Electronics,Wireless Headphones,1,223.35,223.35,pending
+1627,2024-05-28,C048,APAC,Furniture,Monitor Arm,5,174.1,870.5,completed
+1681,2024-05-28,C097,EMEA,Electronics,Laptop Sleeve,2,205.43,410.86,completed
+1338,2024-05-29,C128,LATAM,Clothing,Running Shorts,6,208.8,1252.8,pending
+1378,2024-05-29,C011,EMEA,Electronics,Mechanical Keyboard,6,300.64,1803.84,completed
+1693,2024-05-29,C197,EMEA,Kitchen,Chef Knife,6,61.27,367.62,completed
+1197,2024-05-30,C013,North America,Clothing,Casual Shirt,1,220.36,220.36,completed
+1298,2024-05-30,C131,APAC,Electronics,Monitor Stand,4,348.6,1394.4,completed
+1521,2024-05-30,C053,EMEA,Kitchen,Reusable Containers,2,144.85,289.7,returned
+1808,2024-05-30,C019,APAC,Books,Atomic Habits,4,8.41,33.64,completed
+1187,2024-05-31,C061,APAC,Accessories,Canvas Backpack,5,19.71,98.55,completed
+1215,2024-05-31,C190,North America,Furniture,Standing Desk,5,172.88,864.4,completed
+1501,2024-05-31,C034,North America,Books,Thinking Fast and Slow,3,18.02,54.06,completed
+1631,2024-05-31,C012,North America,Electronics,Mechanical Keyboard,2,52.57,105.14,completed
+1654,2024-05-31,C046,EMEA,Electronics,Laptop Sleeve,3,184.54,553.62,returned
+1703,2024-05-31,C017,North America,Accessories,Canvas Backpack,1,107.82,107.82,completed
+1794,2024-05-31,C064,EMEA,Electronics,Laptop Sleeve,3,285.64,856.92,completed
+1213,2024-06-01,C053,APAC,Furniture,Standing Desk,6,204.05,1224.3,completed
+1238,2024-06-01,C172,EMEA,Clothing,Wool Socks,5,111.45,557.25,completed
+1368,2024-06-01,C034,EMEA,Books,The Design of Everyday Things,2,44.05,88.1,completed
+1374,2024-06-01,C184,North America,Clothing,Wool Socks,1,170.57,170.57,completed
+1467,2024-06-01,C197,EMEA,Kitchen,Spice Rack,5,146.95,734.75,completed
+1183,2024-06-02,C112,LATAM,Office Supplies,Cable Ties,6,46.77,280.62,completed
+1682,2024-06-02,C136,APAC,Kitchen,Chef Knife,4,60.51,242.04,completed
+1934,2024-06-02,C088,APAC,Office Supplies,Cable Ties,1,65.68,65.68,completed
+1671,2024-06-04,C043,EMEA,Accessories,Umbrella,1,63.02,63.02,completed
+2034,2024-06-04,C087,North America,Clothing,Canvas Tote,4,111.6,446.4,completed
+2095,2024-06-04,C091,APAC,Clothing,Running Shorts,6,205.83,1234.98,completed
+1158,2024-06-05,C115,EMEA,Accessories,Travel Mug,4,61.59,246.36,completed
+1498,2024-06-05,C024,North America,Accessories,Travel Mug,3,45.09,135.27,completed
+1568,2024-06-05,C168,LATAM,Accessories,Phone Stand,5,108.57,542.85,completed
+1847,2024-06-05,C111,North America,Furniture,Ergonomic Chair,6,157.75,946.5,completed
+1064,2024-06-06,C187,North America,Accessories,Canvas Backpack,2,111.22,222.44,returned
+1513,2024-06-06,C079,LATAM,Clothing,Canvas Tote,4,422.66,1690.64,completed
+1576,2024-06-06,C199,North America,Accessories,Canvas Backpack,1,83.77,83.77,completed
+1394,2024-06-07,C093,EMEA,Furniture,Ergonomic Chair,3,120.11,360.33,completed
+1738,2024-06-07,C080,LATAM,Office Supplies,Whiteboard Markers,3,72.78,218.34,returned
+2200,2024-06-07,C066,North America,Clothing,Merino Wool Jumper,4,107.57,430.28,completed
+1372,2024-06-08,C083,APAC,Electronics,Monitor Stand,6,115.51,693.06,completed
+1380,2024-06-08,C066,EMEA,Office Supplies,Gel Pen Pack,5,43.85,219.25,completed
+1709,2024-06-08,C198,EMEA,Books,Deep Work,2,10.6,21.2,completed
+1911,2024-06-08,C136,LATAM,Furniture,Desk Lamp,6,118.68,712.08,pending
+1173,2024-06-09,C161,APAC,Accessories,Phone Stand,2,34.73,69.46,completed
+1111,2024-06-10,C008,LATAM,Accessories,Canvas Backpack,5,44.29,221.45,completed
+1153,2024-06-10,C177,LATAM,Electronics,Monitor Stand,1,384.56,384.56,completed
+1896,2024-06-10,C142,North America,Furniture,Ergonomic Chair,3,182.76,548.28,completed
+1729,2024-06-11,C101,North America,Kitchen,Bamboo Cutting Board,3,81.19,243.57,completed
+2093,2024-06-11,C088,North America,Electronics,Monitor Stand,6,96.24,577.44,completed
+1283,2024-06-12,C115,APAC,Office Supplies,Cable Ties,6,44.47,266.82,completed
+1579,2024-06-12,C116,North America,Furniture,Filing Cabinet,1,76.72,76.72,completed
+2013,2024-06-12,C128,LATAM,Electronics,Webcam,6,315.96,1895.76,completed
+2088,2024-06-12,C078,EMEA,Electronics,Webcam,4,198.92,795.68,completed
+1275,2024-06-13,C047,EMEA,Furniture,Desk Lamp,2,78.28,156.56,completed
+1836,2024-06-13,C105,North America,Clothing,Waterproof Jacket,3,148.22,444.66,completed
+1857,2024-06-13,C006,APAC,Clothing,Wool Socks,5,366.62,1833.1,completed
+1922,2024-06-13,C072,LATAM,Furniture,Monitor Arm,4,133.44,533.76,completed
+2144,2024-06-13,C157,APAC,Accessories,Key Organiser,1,92.6,92.6,completed
+1001,2024-06-14,C094,APAC,Books,Thinking Fast and Slow,1,42.49,42.49,completed
+1124,2024-06-14,C197,APAC,Furniture,Filing Cabinet,6,113.94,683.64,completed
+1330,2024-06-14,C076,North America,Office Supplies,Sticky Notes,3,71.24,213.72,completed
+1356,2024-06-14,C161,North America,Electronics,Bluetooth Speaker,3,112.68,338.04,completed
+1409,2024-06-14,C021,EMEA,Furniture,Filing Cabinet,4,213.13,852.52,completed
+1441,2024-06-14,C061,LATAM,Books,Good Strategy Bad Strategy,5,23.43,117.15,completed
+1766,2024-06-14,C090,LATAM,Kitchen,Spice Rack,3,79.42,238.26,completed
+2059,2024-06-14,C121,EMEA,Books,Atomic Habits,4,18.7,74.8,returned
+1046,2024-06-15,C137,EMEA,Office Supplies,Whiteboard Markers,6,27.96,167.76,completed
+1073,2024-06-15,C038,EMEA,Accessories,Sunglasses,3,99.11,297.33,completed
+1485,2024-06-15,C122,North America,Accessories,Sunglasses,4,126.82,507.28,completed
+1571,2024-06-15,C131,North America,Furniture,Ergonomic Chair,2,73.78,147.56,completed
+1637,2024-06-15,C060,APAC,Clothing,Waterproof Jacket,4,295.14,1180.56,completed
+1917,2024-06-15,C021,North America,Furniture,Standing Desk,1,63.07,63.07,completed
+1996,2024-06-15,C036,North America,Furniture,Filing Cabinet,5,126.04,630.2,completed
+2151,2024-06-15,C149,LATAM,Office Supplies,Cable Ties,6,63.52,381.12,completed
+1131,2024-06-16,C101,North America,Kitchen,Spice Rack,5,34.48,172.4,completed
+1211,2024-06-16,C067,EMEA,Office Supplies,Desk Organiser,2,31.62,63.24,completed
+1686,2024-06-16,C182,LATAM,Kitchen,Pour-over Coffee Set,4,75.72,302.88,pending
+1872,2024-06-16,C093,APAC,Electronics,Monitor Stand,3,109.72,329.16,completed
+1029,2024-06-17,C059,EMEA,Office Supplies,Whiteboard Markers,2,66.92,133.84,returned
+1120,2024-06-17,C097,LATAM,Clothing,Wool Socks,1,204.73,204.73,returned
+1454,2024-06-17,C024,EMEA,Electronics,Wireless Headphones,2,102.78,205.56,pending
+1551,2024-06-17,C094,APAC,Books,Good Strategy Bad Strategy,2,44.4,88.8,completed
+1909,2024-06-17,C090,LATAM,Accessories,Sunglasses,1,129.53,129.53,completed
+2049,2024-06-17,C024,APAC,Clothing,Waterproof Jacket,1,247.26,247.26,completed
+2090,2024-06-17,C147,APAC,Office Supplies,Sticky Notes,5,47.89,239.45,completed
+2116,2024-06-17,C087,North America,Electronics,USB-C Hub,4,271.14,1084.56,completed
+1244,2024-06-18,C009,LATAM,Kitchen,Pour-over Coffee Set,4,141.63,566.52,completed
+1481,2024-06-18,C108,North America,Accessories,Key Organiser,4,65.26,261.04,completed
+1550,2024-06-18,C200,APAC,Accessories,Leather Wallet,4,22.23,88.92,completed
+1707,2024-06-18,C075,EMEA,Accessories,Leather Wallet,6,20.63,123.78,completed
+1823,2024-06-18,C132,APAC,Accessories,Travel Mug,4,102.5,410.0,completed
+2117,2024-06-18,C151,North America,Books,Deep Work,2,15.39,30.78,completed
+1035,2024-06-19,C186,LATAM,Electronics,Monitor Stand,4,198.51,794.04,completed
+1267,2024-06-19,C039,North America,Clothing,Merino Wool Jumper,5,370.28,1851.4,completed
+1691,2024-06-19,C045,North America,Office Supplies,Desk Organiser,6,62.61,375.66,completed
+2070,2024-06-19,C040,North America,Electronics,Laptop Sleeve,4,365.56,1462.24,completed
+2053,2024-06-20,C069,EMEA,Accessories,Key Organiser,6,90.61,543.66,completed
+1798,2024-06-21,C057,LATAM,Electronics,Bluetooth Speaker,2,142.57,285.14,completed
+1842,2024-06-21,C033,EMEA,Electronics,USB-C Hub,5,152.64,763.2,completed
+2037,2024-06-21,C093,EMEA,Books,The Lean Startup,5,38.38,191.9,completed
+1052,2024-06-22,C087,North America,Furniture,Bookshelf,1,169.99,169.99,completed
+1114,2024-06-22,C190,LATAM,Accessories,Travel Mug,2,18.76,37.52,completed
+1473,2024-06-22,C150,LATAM,Accessories,Phone Stand,3,127.72,383.16,completed
+1710,2024-06-22,C079,North America,Kitchen,Chef Knife,4,71.84,287.36,returned
+2186,2024-06-22,C094,LATAM,Furniture,Standing Desk,1,152.68,152.68,completed
+1246,2024-06-23,C065,EMEA,Furniture,Desk Lamp,3,118.33,354.99,completed
+1385,2024-06-23,C053,LATAM,Accessories,Phone Stand,5,24.08,120.4,returned
+1719,2024-06-23,C189,EMEA,Furniture,Ergonomic Chair,4,165.54,662.16,returned
+1849,2024-06-23,C079,LATAM,Furniture,Ergonomic Chair,5,134.46,672.3,completed
+2079,2024-06-23,C031,North America,Furniture,Storage Ottoman,3,218.4,655.2,pending
+1639,2024-06-24,C109,EMEA,Kitchen,Reusable Containers,1,27.59,27.59,completed
+1089,2024-06-25,C102,North America,Furniture,Ergonomic Chair,1,98.42,98.42,completed
+2110,2024-06-25,C057,LATAM,Accessories,Umbrella,6,111.46,668.76,completed
+2005,2024-06-26,C114,EMEA,Clothing,Merino Wool Jumper,2,279.35,558.7,completed
+2076,2024-06-26,C168,APAC,Accessories,Phone Stand,6,101.45,608.7,completed
+2109,2024-06-26,C131,EMEA,Furniture,Storage Ottoman,4,53.55,214.2,completed
+1442,2024-06-27,C102,APAC,Electronics,Bluetooth Speaker,6,217.66,1305.96,completed
+1478,2024-06-27,C046,EMEA,Books,Good Strategy Bad Strategy,6,11.04,66.24,returned
+1490,2024-06-27,C136,EMEA,Office Supplies,Sticky Notes,2,12.74,25.48,pending
+1986,2024-06-27,C002,EMEA,Furniture,Standing Desk,2,53.21,106.42,pending
+1122,2024-06-28,C111,EMEA,Furniture,Ergonomic Chair,4,104.19,416.76,completed
+1142,2024-06-28,C010,North America,Clothing,Chino Trousers,2,97.67,195.34,completed
+1312,2024-06-28,C127,EMEA,Kitchen,Chef Knife,1,65.14,65.14,completed
+1440,2024-06-28,C172,LATAM,Kitchen,Chef Knife,3,31.55,94.65,completed
+1566,2024-06-29,C171,LATAM,Accessories,Umbrella,2,122.0,244.0,completed
+1739,2024-06-29,C171,APAC,Office Supplies,Notebook Set,4,40.12,160.48,completed
+1274,2024-06-30,C134,LATAM,Kitchen,Ceramic Mug Set,5,104.32,521.6,completed
+1608,2024-06-30,C183,EMEA,Clothing,Merino Wool Jumper,6,222.1,1332.6,completed
+1762,2024-06-30,C142,LATAM,Furniture,Monitor Arm,4,151.56,606.24,completed
+1840,2024-06-30,C114,North America,Electronics,USB-C Hub,6,340.84,2045.04,completed
+1455,2024-07-02,C040,North America,Kitchen,Spice Rack,5,129.46,647.3,completed
+1393,2024-07-03,C180,APAC,Furniture,Ergonomic Chair,3,94.7,284.1,completed
+1470,2024-07-03,C077,LATAM,Electronics,Laptop Sleeve,2,210.88,421.76,completed
+1577,2024-07-03,C051,North America,Books,Atomic Habits,3,45.43,136.29,completed
+1594,2024-07-03,C056,APAC,Electronics,Mechanical Keyboard,1,360.28,360.28,completed
+1347,2024-07-04,C076,North America,Clothing,Merino Wool Jumper,5,150.23,751.15,completed
+1480,2024-07-04,C141,APAC,Clothing,Chino Trousers,6,261.5,1569.0,completed
+1769,2024-07-04,C127,APAC,Kitchen,Chef Knife,3,162.82,488.46,completed
+1194,2024-07-05,C064,APAC,Clothing,Canvas Tote,6,457.73,2746.38,completed
+1491,2024-07-05,C040,EMEA,Office Supplies,Whiteboard Markers,3,25.18,75.54,completed
+1928,2024-07-05,C057,APAC,Electronics,Webcam,1,60.03,60.03,completed
+2071,2024-07-05,C086,North America,Books,Thinking Fast and Slow,2,49.07,98.14,completed
+1050,2024-07-06,C102,LATAM,Electronics,Bluetooth Speaker,2,326.27,652.54,completed
+1261,2024-07-06,C161,EMEA,Kitchen,Chef Knife,6,141.98,851.88,completed
+1496,2024-07-06,C098,EMEA,Furniture,Monitor Arm,5,106.74,533.7,completed
+1171,2024-07-07,C158,North America,Office Supplies,Desk Organiser,1,39.84,39.84,completed
+1198,2024-07-07,C106,LATAM,Books,Good Strategy Bad Strategy,3,33.97,101.91,completed
+1367,2024-07-07,C054,LATAM,Clothing,Wool Socks,4,331.74,1326.96,completed
+1803,2024-07-07,C095,North America,Electronics,Webcam,2,176.84,353.68,completed
+2026,2024-07-07,C115,EMEA,Clothing,Running Shorts,4,180.03,720.12,completed
+1817,2024-07-08,C151,EMEA,Clothing,Waterproof Jacket,2,140.67,281.34,completed
+1136,2024-07-09,C061,EMEA,Clothing,Chino Trousers,4,178.97,715.88,completed
+1421,2024-07-09,C035,EMEA,Electronics,Monitor Stand,4,160.97,643.88,returned
+1500,2024-07-09,C193,LATAM,Books,Python Crash Course,4,23.42,93.68,returned
+1908,2024-07-09,C030,LATAM,Clothing,Wool Socks,1,381.74,381.74,completed
+2106,2024-07-09,C020,LATAM,Office Supplies,Notebook Set,1,73.93,73.93,completed
+1121,2024-07-10,C021,EMEA,Books,Thinking Fast and Slow,1,8.12,8.12,completed
+2119,2024-07-10,C020,North America,Clothing,Casual Shirt,3,181.39,544.17,completed
+1077,2024-07-11,C175,APAC,Kitchen,Reusable Containers,6,24.98,149.88,completed
+1102,2024-07-11,C033,APAC,Clothing,Canvas Tote,4,191.01,764.04,completed
+2000,2024-07-11,C028,LATAM,Clothing,Chino Trousers,6,253.33,1519.98,completed
+1730,2024-07-12,C198,APAC,Clothing,Waterproof Jacket,6,244.23,1465.38,completed
+1339,2024-07-13,C149,North America,Furniture,Standing Desk,2,118.42,236.84,completed
+1574,2024-07-13,C042,North America,Furniture,Monitor Arm,6,202.51,1215.06,completed
+1804,2024-07-13,C099,LATAM,Books,Atomic Habits,5,19.87,99.35,completed
+1684,2024-07-14,C135,North America,Clothing,Wool Socks,6,174.62,1047.72,completed
+1994,2024-07-14,C186,LATAM,Kitchen,Bamboo Cutting Board,6,41.52,249.12,completed
+1152,2024-07-15,C124,EMEA,Furniture,Storage Ottoman,3,62.8,188.4,completed
+1482,2024-07-15,C002,LATAM,Books,Thinking Fast and Slow,4,41.76,167.04,completed
+1965,2024-07-15,C027,APAC,Office Supplies,Sticky Notes,4,47.05,188.2,completed
+1327,2024-07-16,C157,North America,Clothing,Wool Socks,4,436.72,1746.88,completed
+2089,2024-07-16,C136,EMEA,Electronics,USB-C Hub,4,186.84,747.36,completed
+1034,2024-07-17,C163,EMEA,Kitchen,French Press,4,162.46,649.84,completed
+1110,2024-07-17,C072,APAC,Clothing,Canvas Tote,1,294.99,294.99,completed
+1214,2024-07-17,C162,LATAM,Furniture,Ergonomic Chair,4,164.82,659.28,completed
+1434,2024-07-17,C059,APAC,Books,Deep Work,3,32.32,96.96,completed
+1650,2024-07-17,C086,APAC,Kitchen,Ceramic Mug Set,2,148.85,297.7,completed
+1621,2024-07-19,C010,EMEA,Office Supplies,Cable Ties,6,61.17,367.02,completed
+1644,2024-07-19,C165,APAC,Clothing,Chino Trousers,1,356.46,356.46,completed
+1646,2024-07-19,C020,APAC,Clothing,Merino Wool Jumper,5,85.81,429.05,completed
+1777,2024-07-19,C181,EMEA,Furniture,Filing Cabinet,4,215.43,861.72,completed
+1091,2024-07-20,C071,APAC,Furniture,Storage Ottoman,3,206.57,619.71,pending
+1118,2024-07-20,C048,EMEA,Electronics,Wireless Headphones,4,69.18,276.72,completed
+1119,2024-07-20,C043,North America,Furniture,Monitor Arm,6,60.38,362.28,completed
+1564,2024-07-20,C001,EMEA,Clothing,Chino Trousers,2,236.37,472.74,completed
+1205,2024-07-21,C096,APAC,Books,Python Crash Course,4,45.31,181.24,completed
+1582,2024-07-21,C011,APAC,Office Supplies,Desk Organiser,3,40.38,121.14,completed
+1942,2024-07-21,C062,North America,Clothing,Waterproof Jacket,5,266.23,1331.15,completed
+1146,2024-07-22,C080,North America,Accessories,Sunglasses,6,52.45,314.7,completed
+2035,2024-07-22,C052,North America,Clothing,Canvas Tote,1,466.53,466.53,completed
+2080,2024-07-22,C155,North America,Accessories,Travel Mug,6,29.29,175.74,completed
+1021,2024-07-23,C113,LATAM,Furniture,Filing Cabinet,1,74.31,74.31,completed
+1071,2024-07-23,C022,APAC,Office Supplies,Sticky Notes,3,29.91,89.73,completed
+1094,2024-07-23,C106,EMEA,Books,The Design of Everyday Things,6,11.38,68.28,returned
+1104,2024-07-23,C182,North America,Accessories,Sunglasses,1,32.25,32.25,completed
+1250,2024-07-23,C012,APAC,Accessories,Sunglasses,4,51.65,206.6,completed
+1375,2024-07-23,C071,LATAM,Clothing,Casual Shirt,6,433.1,2598.6,completed
+1764,2024-07-23,C141,EMEA,Kitchen,Reusable Containers,3,148.57,445.71,completed
+1970,2024-07-23,C163,APAC,Books,The Design of Everyday Things,4,27.32,109.28,completed
+1227,2024-07-24,C034,EMEA,Books,The Design of Everyday Things,4,27.41,109.64,completed
+2133,2024-07-24,C138,North America,Furniture,Standing Desk,4,183.35,733.4,completed
+1168,2024-07-25,C030,North America,Electronics,USB-C Hub,4,112.43,449.72,completed
+1237,2024-07-25,C163,APAC,Kitchen,Ceramic Mug Set,6,164.46,986.76,completed
+1370,2024-07-25,C139,EMEA,Office Supplies,Gel Pen Pack,1,56.81,56.81,completed
+1586,2024-07-25,C090,North America,Furniture,Storage Ottoman,4,110.66,442.64,completed
+2009,2024-07-25,C048,North America,Office Supplies,Desk Organiser,4,78.89,315.56,completed
+1125,2024-07-26,C066,LATAM,Electronics,Wireless Headphones,1,347.24,347.24,completed
+2046,2024-07-26,C104,LATAM,Accessories,Sunglasses,2,34.26,68.52,completed
+1493,2024-07-28,C134,LATAM,Electronics,USB-C Hub,1,184.97,184.97,completed
+1755,2024-07-28,C092,EMEA,Kitchen,Ceramic Mug Set,2,47.47,94.94,completed
+1988,2024-07-28,C151,APAC,Office Supplies,Notebook Set,4,32.53,130.12,completed
+2063,2024-07-28,C056,APAC,Clothing,Wool Socks,5,171.57,857.85,completed
+2126,2024-07-28,C139,EMEA,Office Supplies,Whiteboard Markers,1,69.84,69.84,completed
+1112,2024-07-29,C166,APAC,Accessories,Travel Mug,1,39.74,39.74,completed
+1552,2024-07-29,C173,North America,Electronics,Monitor Stand,5,110.02,550.1,completed
+1696,2024-07-30,C022,APAC,Accessories,Travel Mug,1,107.42,107.42,completed
+2182,2024-07-30,C182,North America,Accessories,Phone Stand,4,107.59,430.36,completed
+1754,2024-07-31,C087,EMEA,Electronics,Webcam,6,130.09,780.54,completed
+1962,2024-07-31,C052,APAC,Furniture,Monitor Arm,3,46.71,140.13,completed
+1059,2024-08-01,C029,EMEA,Books,Deep Work,1,30.13,30.13,completed
+1567,2024-08-01,C093,North America,Electronics,Mechanical Keyboard,4,148.55,594.2,completed
+1744,2024-08-01,C126,North America,Clothing,Chino Trousers,5,372.88,1864.4,completed
+1861,2024-08-01,C062,EMEA,Books,The Lean Startup,1,21.94,21.94,completed
+1930,2024-08-01,C145,EMEA,Furniture,Desk Lamp,3,191.13,573.39,completed
+1360,2024-08-02,C184,APAC,Office Supplies,Sticky Notes,2,56.76,113.52,completed
+2112,2024-08-02,C189,LATAM,Clothing,Wool Socks,5,371.01,1855.05,pending
+1113,2024-08-03,C179,LATAM,Electronics,Bluetooth Speaker,3,133.91,401.73,completed
+1852,2024-08-03,C165,North America,Kitchen,Spice Rack,4,46.55,186.2,completed
+2178,2024-08-03,C144,North America,Office Supplies,Desk Organiser,6,36.48,218.88,completed
+1364,2024-08-04,C089,EMEA,Kitchen,Bamboo Cutting Board,4,52.21,208.84,completed
+1925,2024-08-05,C021,EMEA,Electronics,USB-C Hub,1,257.51,257.51,completed
+1133,2024-08-06,C108,North America,Books,The Lean Startup,5,11.53,57.65,completed
+1341,2024-08-06,C077,APAC,Books,The Lean Startup,1,18.78,18.78,completed
+1422,2024-08-06,C091,EMEA,Books,The Lean Startup,5,12.82,64.1,returned
+1722,2024-08-06,C030,APAC,Accessories,Travel Mug,2,69.31,138.62,completed
+1792,2024-08-06,C103,North America,Kitchen,Chef Knife,4,123.61,494.44,completed
+1386,2024-08-07,C180,EMEA,Accessories,Key Organiser,4,103.34,413.36,completed
+1821,2024-08-07,C116,APAC,Clothing,Canvas Tote,2,470.21,940.42,completed
+1932,2024-08-07,C174,EMEA,Electronics,Monitor Stand,5,360.18,1800.9,completed
+1343,2024-08-08,C003,APAC,Furniture,Bookshelf,5,161.72,808.6,completed
+1528,2024-08-08,C169,APAC,Clothing,Casual Shirt,1,411.4,411.4,completed
+2098,2024-08-08,C106,North America,Electronics,Laptop Sleeve,5,389.28,1946.4,completed
+1174,2024-08-09,C168,APAC,Furniture,Bookshelf,2,127.91,255.82,completed
+1218,2024-08-09,C183,APAC,Clothing,Wool Socks,4,176.96,707.84,completed
+1381,2024-08-10,C199,North America,Accessories,Umbrella,1,30.53,30.53,pending
+1466,2024-08-10,C072,EMEA,Clothing,Chino Trousers,3,383.67,1151.01,completed
+1519,2024-08-10,C153,APAC,Kitchen,Pour-over Coffee Set,2,158.3,316.6,completed
+2045,2024-08-10,C011,APAC,Furniture,Ergonomic Chair,4,211.67,846.68,returned
+1093,2024-08-11,C162,North America,Furniture,Standing Desk,4,199.17,796.68,pending
+1109,2024-08-11,C050,APAC,Accessories,Leather Wallet,1,51.64,51.64,completed
+1317,2024-08-11,C084,North America,Kitchen,Reusable Containers,4,155.93,623.72,completed
+1899,2024-08-11,C082,EMEA,Clothing,Merino Wool Jumper,4,148.92,595.68,completed
+1989,2024-08-11,C099,LATAM,Accessories,Key Organiser,5,58.56,292.8,completed
+1265,2024-08-12,C042,EMEA,Furniture,Standing Desk,1,105.39,105.39,completed
+1293,2024-08-12,C070,LATAM,Kitchen,Bamboo Cutting Board,4,60.99,243.96,completed
+1407,2024-08-12,C002,EMEA,Electronics,Laptop Sleeve,6,110.85,665.1,completed
+1659,2024-08-12,C104,LATAM,Furniture,Ergonomic Chair,5,168.07,840.35,completed
+1981,2024-08-12,C181,North America,Office Supplies,Document Folder,2,74.31,148.62,completed
+2042,2024-08-12,C145,North America,Books,Python Crash Course,3,46.47,139.41,completed
+2146,2024-08-12,C116,APAC,Clothing,Canvas Tote,6,374.29,2245.74,returned
+1325,2024-08-13,C063,North America,Electronics,Bluetooth Speaker,4,263.62,1054.48,completed
+1866,2024-08-13,C001,North America,Books,The Lean Startup,4,44.59,178.36,returned
+1887,2024-08-13,C079,APAC,Office Supplies,Desk Organiser,1,60.72,60.72,completed
+1924,2024-08-13,C044,North America,Furniture,Desk Lamp,3,67.48,202.44,completed
+1948,2024-08-13,C104,APAC,Kitchen,Spice Rack,1,173.74,173.74,completed
+1404,2024-08-14,C049,APAC,Office Supplies,Sticky Notes,1,69.25,69.25,completed
+1408,2024-08-14,C139,North America,Kitchen,Chef Knife,5,52.88,264.4,completed
+1800,2024-08-15,C099,LATAM,Clothing,Casual Shirt,3,352.8,1058.4,pending
+1991,2024-08-15,C031,LATAM,Clothing,Canvas Tote,3,231.94,695.82,completed
+2060,2024-08-15,C181,EMEA,Furniture,Standing Desk,3,60.59,181.77,completed
+2108,2024-08-15,C139,LATAM,Books,Good Strategy Bad Strategy,5,20.95,104.75,completed
+1068,2024-08-16,C080,North America,Electronics,USB-C Hub,5,169.71,848.55,completed
+1160,2024-08-16,C028,LATAM,Kitchen,French Press,2,150.06,300.12,completed
+1824,2024-08-16,C181,EMEA,Clothing,Waterproof Jacket,3,252.78,758.34,completed
+2004,2024-08-16,C015,EMEA,Electronics,Webcam,6,69.87,419.22,completed
+1106,2024-08-17,C028,EMEA,Clothing,Merino Wool Jumper,2,140.83,281.66,returned
+1790,2024-08-17,C055,APAC,Accessories,Leather Wallet,4,111.44,445.76,completed
+1881,2024-08-17,C157,APAC,Office Supplies,Gel Pen Pack,6,75.35,452.1,completed
+1095,2024-08-18,C033,North America,Office Supplies,Gel Pen Pack,4,11.53,46.12,completed
+1208,2024-08-18,C198,North America,Accessories,Phone Stand,2,69.87,139.74,returned
+1648,2024-08-18,C177,North America,Electronics,Wireless Headphones,3,196.07,588.21,returned
+1992,2024-08-18,C027,LATAM,Electronics,Webcam,3,232.97,698.91,completed
+1780,2024-08-19,C013,North America,Furniture,Ergonomic Chair,6,111.27,667.62,completed
+1960,2024-08-19,C060,LATAM,Electronics,Webcam,5,403.1,2015.5,completed
+1603,2024-08-20,C195,EMEA,Clothing,Running Shorts,1,241.15,241.15,completed
+1609,2024-08-20,C125,APAC,Kitchen,Bamboo Cutting Board,2,79.49,158.98,completed
+1695,2024-08-20,C137,APAC,Kitchen,French Press,2,163.74,327.48,completed
+1674,2024-08-21,C106,North America,Clothing,Canvas Tote,1,242.79,242.79,completed
+1806,2024-08-21,C051,North America,Office Supplies,Whiteboard Markers,4,76.36,305.44,completed
+1868,2024-08-21,C044,North America,Clothing,Wool Socks,5,227.38,1136.9,returned
+1041,2024-08-22,C135,LATAM,Accessories,Key Organiser,5,32.65,163.25,completed
+2123,2024-08-22,C026,APAC,Electronics,USB-C Hub,5,307.72,1538.6,completed
+1207,2024-08-23,C040,APAC,Electronics,Mechanical Keyboard,3,265.18,795.54,completed
+2061,2024-08-23,C114,LATAM,Books,The Lean Startup,6,17.06,102.36,returned
+2073,2024-08-23,C175,EMEA,Furniture,Desk Lamp,2,71.87,143.74,completed
+2199,2024-08-23,C089,EMEA,Electronics,Wireless Headphones,2,315.68,631.36,completed
+1377,2024-08-24,C047,LATAM,Clothing,Canvas Tote,3,442.42,1327.26,completed
+1735,2024-08-24,C017,EMEA,Kitchen,French Press,6,75.79,454.74,completed
+2137,2024-08-25,C162,EMEA,Clothing,Merino Wool Jumper,3,228.98,686.94,completed
+1008,2024-08-26,C179,North America,Office Supplies,Sticky Notes,3,25.89,77.67,completed
+1084,2024-08-26,C005,EMEA,Furniture,Ergonomic Chair,3,216.06,648.18,completed
+1116,2024-08-26,C157,North America,Clothing,Canvas Tote,1,460.77,460.77,completed
+1129,2024-08-26,C128,North America,Books,Thinking Fast and Slow,4,42.22,168.88,completed
+1184,2024-08-26,C067,LATAM,Electronics,Monitor Stand,2,133.6,267.2,completed
+1273,2024-08-26,C138,APAC,Accessories,Travel Mug,4,69.49,277.96,completed
+1355,2024-08-27,C149,APAC,Office Supplies,Document Folder,6,8.9,53.4,pending
+1864,2024-08-27,C045,LATAM,Books,The Lean Startup,4,17.57,70.28,completed
+2010,2024-08-27,C035,LATAM,Clothing,Canvas Tote,6,440.38,2642.28,pending
+2148,2024-08-27,C114,North America,Electronics,USB-C Hub,1,75.02,75.02,completed
+2039,2024-08-29,C126,North America,Clothing,Chino Trousers,5,412.3,2061.5,completed
+2136,2024-08-29,C048,EMEA,Books,Thinking Fast and Slow,5,44.33,221.65,completed
+2167,2024-08-29,C117,LATAM,Furniture,Standing Desk,2,61.99,123.98,completed
+1105,2024-08-30,C120,APAC,Books,Thinking Fast and Slow,1,24.44,24.44,completed
+1505,2024-08-30,C193,LATAM,Electronics,Wireless Headphones,4,231.77,927.08,completed
+1335,2024-08-31,C106,EMEA,Clothing,Wool Socks,4,428.33,1713.32,completed
+1420,2024-08-31,C013,North America,Kitchen,Ceramic Mug Set,5,31.09,155.45,completed
+1912,2024-08-31,C144,LATAM,Clothing,Canvas Tote,4,164.44,657.76,completed
+1944,2024-08-31,C046,North America,Clothing,Running Shorts,2,417.86,835.72,completed
+1047,2024-09-01,C115,North America,Furniture,Standing Desk,5,200.7,1003.5,completed
+1328,2024-09-01,C132,APAC,Furniture,Bookshelf,2,100.06,200.12,completed
+1457,2024-09-01,C117,North America,Kitchen,French Press,6,144.07,864.42,returned
+2015,2024-09-01,C148,LATAM,Office Supplies,Document Folder,1,79.03,79.03,completed
+2050,2024-09-01,C163,EMEA,Furniture,Monitor Arm,4,94.29,377.16,returned
+1025,2024-09-02,C068,EMEA,Furniture,Ergonomic Chair,1,174.94,174.94,returned
+1026,2024-09-02,C093,APAC,Kitchen,Ceramic Mug Set,2,172.26,344.52,completed
+1624,2024-09-02,C042,APAC,Accessories,Leather Wallet,2,34.04,68.08,completed
+1534,2024-09-03,C018,North America,Clothing,Wool Socks,2,123.86,247.72,completed
+1692,2024-09-03,C197,EMEA,Accessories,Phone Stand,4,59.41,237.64,completed
+1959,2024-09-03,C018,EMEA,Kitchen,Chef Knife,1,49.57,49.57,completed
+1295,2024-09-04,C055,APAC,Electronics,Mechanical Keyboard,6,381.16,2286.96,completed
+1597,2024-09-04,C056,North America,Clothing,Wool Socks,3,292.28,876.84,completed
+1846,2024-09-04,C182,EMEA,Clothing,Wool Socks,6,260.81,1564.86,completed
+1272,2024-09-05,C102,EMEA,Kitchen,Ceramic Mug Set,3,117.89,353.67,completed
+2192,2024-09-05,C107,APAC,Clothing,Casual Shirt,2,267.65,535.3,completed
+1051,2024-09-06,C104,EMEA,Electronics,Monitor Stand,2,311.34,622.68,completed
+1282,2024-09-06,C066,LATAM,Books,The Lean Startup,1,37.67,37.67,completed
+1851,2024-09-06,C087,North America,Electronics,Bluetooth Speaker,4,65.99,263.96,completed
+1921,2024-09-06,C052,APAC,Books,Thinking Fast and Slow,4,46.87,187.48,completed
+1221,2024-09-07,C184,APAC,Books,The Lean Startup,3,30.82,92.46,completed
+2105,2024-09-07,C102,EMEA,Office Supplies,Whiteboard Markers,1,32.31,32.31,returned
+2115,2024-09-07,C029,North America,Kitchen,Ceramic Mug Set,3,138.54,415.62,completed
+2191,2024-09-07,C057,North America,Clothing,Running Shorts,2,190.24,380.48,completed
+1673,2024-09-08,C080,EMEA,Accessories,Canvas Backpack,2,111.4,222.8,completed
+1725,2024-09-08,C121,North America,Electronics,Laptop Sleeve,2,60.23,120.46,completed
+1966,2024-09-08,C154,APAC,Electronics,Monitor Stand,4,320.65,1282.6,completed
+2194,2024-09-09,C128,APAC,Kitchen,Spice Rack,4,80.22,320.88,completed
+1256,2024-09-11,C115,APAC,Office Supplies,Notebook Set,4,49.42,197.68,completed
+1520,2024-09-11,C173,EMEA,Clothing,Wool Socks,4,168.32,673.28,returned
+1530,2024-09-11,C154,EMEA,Books,The Lean Startup,4,19.76,79.04,completed
+1553,2024-09-11,C152,North America,Electronics,Laptop Sleeve,1,325.64,325.64,returned
+1737,2024-09-11,C097,LATAM,Accessories,Canvas Backpack,6,63.01,378.06,completed
+1773,2024-09-11,C193,LATAM,Kitchen,Spice Rack,1,121.47,121.47,returned
+1933,2024-09-11,C084,LATAM,Clothing,Running Shorts,1,192.66,192.66,completed
+1134,2024-09-12,C159,EMEA,Books,Thinking Fast and Slow,2,13.58,27.16,completed
+1403,2024-09-12,C036,APAC,Accessories,Travel Mug,2,95.05,190.1,completed
+1569,2024-09-12,C031,APAC,Furniture,Monitor Arm,1,197.54,197.54,returned
+2027,2024-09-12,C068,APAC,Clothing,Running Shorts,3,248.29,744.87,completed
+1430,2024-09-13,C174,APAC,Furniture,Ergonomic Chair,1,72.81,72.81,completed
+1580,2024-09-13,C194,EMEA,Kitchen,Chef Knife,3,28.94,86.82,completed
+2154,2024-09-13,C197,EMEA,Books,Thinking Fast and Slow,6,20.77,124.62,completed
+1159,2024-09-14,C061,APAC,Furniture,Ergonomic Chair,5,217.5,1087.5,completed
+1248,2024-09-14,C085,North America,Books,Good Strategy Bad Strategy,2,35.49,70.98,completed
+1472,2024-09-14,C107,EMEA,Accessories,Leather Wallet,4,94.47,377.88,completed
+1822,2024-09-14,C199,EMEA,Clothing,Merino Wool Jumper,2,107.8,215.6,completed
+1843,2024-09-14,C031,EMEA,Electronics,Webcam,1,246.78,246.78,completed
+1902,2024-09-14,C166,APAC,Furniture,Ergonomic Chair,2,119.98,239.96,pending
+1115,2024-09-15,C060,EMEA,Electronics,Webcam,3,333.37,1000.11,completed
+1151,2024-09-15,C028,North America,Electronics,USB-C Hub,2,242.83,485.66,completed
+1747,2024-09-15,C144,EMEA,Electronics,Mechanical Keyboard,5,221.09,1105.45,completed
+1950,2024-09-15,C147,North America,Electronics,Webcam,2,408.93,817.86,completed
+2193,2024-09-15,C092,North America,Kitchen,Chef Knife,1,40.53,40.53,completed
+1138,2024-09-16,C027,APAC,Office Supplies,Cable Ties,6,41.4,248.4,completed
+1210,2024-09-16,C186,EMEA,Clothing,Chino Trousers,6,142.39,854.34,completed
+1418,2024-09-16,C132,APAC,Accessories,Key Organiser,6,128.95,773.7,returned
+1628,2024-09-16,C054,EMEA,Kitchen,Spice Rack,1,133.88,133.88,returned
+1713,2024-09-16,C080,North America,Accessories,Key Organiser,6,98.23,589.38,completed
+1788,2024-09-16,C097,APAC,Furniture,Ergonomic Chair,5,179.87,899.35,completed
+2087,2024-09-16,C076,LATAM,Accessories,Key Organiser,6,35.39,212.34,completed
+1855,2024-09-17,C066,LATAM,Electronics,USB-C Hub,5,197.07,985.35,completed
+1878,2024-09-17,C029,EMEA,Kitchen,Bamboo Cutting Board,6,98.37,590.22,completed
+1042,2024-09-18,C045,EMEA,Electronics,Webcam,5,51.46,257.3,completed
+1163,2024-09-18,C007,LATAM,Electronics,Laptop Sleeve,6,401.82,2410.92,completed
+1549,2024-09-18,C176,North America,Accessories,Canvas Backpack,2,40.82,81.64,completed
+1054,2024-09-19,C011,EMEA,Books,The Lean Startup,1,11.53,11.53,completed
+1715,2024-09-19,C096,LATAM,Clothing,Chino Trousers,6,247.36,1484.16,returned
+1825,2024-09-19,C166,APAC,Furniture,Standing Desk,4,62.04,248.16,returned
+1936,2024-09-19,C157,EMEA,Clothing,Running Shorts,4,457.31,1829.24,completed
+2033,2024-09-19,C033,APAC,Office Supplies,Gel Pen Pack,5,52.86,264.3,completed
+1353,2024-09-20,C041,EMEA,Books,The Design of Everyday Things,4,33.27,133.08,completed
+1318,2024-09-21,C162,North America,Electronics,Monitor Stand,2,372.08,744.16,completed
+1522,2024-09-21,C058,EMEA,Electronics,Wireless Headphones,1,401.82,401.82,completed
+1028,2024-09-22,C129,North America,Furniture,Standing Desk,2,135.87,271.74,pending
+1220,2024-09-22,C100,EMEA,Accessories,Key Organiser,6,54.74,328.44,completed
+1354,2024-09-22,C126,APAC,Accessories,Leather Wallet,1,26.53,26.53,completed
+1511,2024-09-22,C099,North America,Books,Atomic Habits,5,19.02,95.1,completed
+2065,2024-09-22,C029,APAC,Clothing,Wool Socks,3,428.82,1286.46,completed
+1494,2024-09-23,C178,APAC,Clothing,Wool Socks,3,238.22,714.66,completed
+1863,2024-09-23,C123,North America,Kitchen,French Press,3,96.16,288.48,returned
+1883,2024-09-23,C117,EMEA,Electronics,Mechanical Keyboard,4,82.16,328.64,returned
+1678,2024-09-24,C021,APAC,Electronics,USB-C Hub,2,136.69,273.38,completed
+1699,2024-09-24,C086,LATAM,Clothing,Chino Trousers,6,271.54,1629.24,completed
+1075,2024-09-25,C175,APAC,Accessories,Umbrella,6,83.41,500.46,returned
+1499,2024-09-25,C159,APAC,Office Supplies,Document Folder,2,17.24,34.48,completed
+1956,2024-09-25,C177,LATAM,Furniture,Filing Cabinet,5,97.19,485.95,completed
+2174,2024-09-25,C053,EMEA,Kitchen,Chef Knife,4,106.48,425.92,completed
+1611,2024-09-27,C006,LATAM,Office Supplies,Whiteboard Markers,2,33.47,66.94,completed
+2102,2024-09-27,C060,LATAM,Kitchen,French Press,4,149.8,599.2,completed
+2159,2024-09-27,C039,LATAM,Clothing,Running Shorts,4,175.63,702.52,completed
+1044,2024-09-28,C071,APAC,Office Supplies,Document Folder,5,12.09,60.45,completed
+1169,2024-09-28,C177,North America,Electronics,Laptop Sleeve,4,255.42,1021.68,completed
+1779,2024-09-28,C004,LATAM,Office Supplies,Notebook Set,5,64.95,324.75,completed
+2173,2024-09-28,C037,North America,Clothing,Waterproof Jacket,2,336.1,672.2,completed
+1583,2024-09-29,C068,North America,Kitchen,Reusable Containers,3,117.14,351.42,completed
+1812,2024-09-29,C027,EMEA,Kitchen,Pour-over Coffee Set,2,165.17,330.34,completed
+1816,2024-09-29,C092,North America,Accessories,Canvas Backpack,6,58.93,353.58,completed
+1884,2024-09-29,C155,EMEA,Clothing,Waterproof Jacket,3,439.42,1318.26,completed
+2125,2024-09-29,C065,North America,Kitchen,Reusable Containers,6,96.94,581.64,pending
+1542,2024-09-30,C180,APAC,Furniture,Ergonomic Chair,1,209.8,209.8,completed
+1615,2024-09-30,C125,North America,Books,Good Strategy Bad Strategy,3,34.23,102.69,completed
+1716,2024-09-30,C117,North America,Furniture,Monitor Arm,5,49.19,245.95,pending
+2120,2024-09-30,C098,North America,Clothing,Running Shorts,1,311.02,311.02,returned
+1342,2024-10-01,C176,LATAM,Kitchen,Reusable Containers,5,152.46,762.3,returned
+1450,2024-10-01,C192,North America,Accessories,Leather Wallet,1,41.77,41.77,completed
+1581,2024-10-01,C184,LATAM,Furniture,Desk Lamp,1,89.57,89.57,completed
+1998,2024-10-01,C106,EMEA,Kitchen,Bamboo Cutting Board,4,140.9,563.6,completed
+2127,2024-10-01,C106,EMEA,Kitchen,Pour-over Coffee Set,4,76.29,305.16,completed
+2006,2024-10-02,C054,APAC,Furniture,Ergonomic Chair,6,51.92,311.52,completed
+1241,2024-10-03,C179,APAC,Office Supplies,Cable Ties,2,68.54,137.08,completed
+1733,2024-10-03,C082,APAC,Accessories,Phone Stand,3,118.34,355.02,completed
+2179,2024-10-03,C164,EMEA,Books,Python Crash Course,6,30.62,183.72,returned
+1540,2024-10-04,C130,EMEA,Electronics,Webcam,2,260.3,520.6,completed
+1688,2024-10-04,C098,EMEA,Furniture,Standing Desk,3,172.35,517.05,completed
+1845,2024-10-04,C066,North America,Furniture,Bookshelf,4,189.4,757.6,completed
+2003,2024-10-04,C188,North America,Books,Deep Work,4,21.25,85.0,completed
+2164,2024-10-04,C176,EMEA,Clothing,Casual Shirt,4,80.99,323.96,completed
+1573,2024-10-05,C164,LATAM,Electronics,Mechanical Keyboard,6,81.2,487.2,completed
+1638,2024-10-05,C062,North America,Books,Good Strategy Bad Strategy,1,40.36,40.36,pending
+1807,2024-10-05,C077,EMEA,Books,Python Crash Course,3,15.91,47.73,completed
+1832,2024-10-05,C065,APAC,Clothing,Chino Trousers,4,280.92,1123.68,completed
+1838,2024-10-05,C067,EMEA,Accessories,Key Organiser,6,119.61,717.66,completed
+2074,2024-10-05,C024,LATAM,Clothing,Wool Socks,2,107.58,215.16,completed
+1329,2024-10-06,C062,LATAM,Furniture,Desk Lamp,1,206.35,206.35,completed
+1745,2024-10-06,C043,EMEA,Accessories,Leather Wallet,5,125.15,625.75,completed
+1876,2024-10-06,C048,EMEA,Furniture,Standing Desk,1,156.14,156.14,returned
+1038,2024-10-07,C112,APAC,Electronics,Wireless Headphones,5,327.31,1636.55,completed
+1336,2024-10-08,C160,LATAM,Office Supplies,Sticky Notes,5,18.77,93.85,completed
+1767,2024-10-08,C157,LATAM,Office Supplies,Desk Organiser,1,31.95,31.95,completed
+1952,2024-10-08,C103,EMEA,Electronics,Webcam,5,221.25,1106.25,completed
+1765,2024-10-09,C158,North America,Furniture,Standing Desk,1,64.48,64.48,completed
+1897,2024-10-09,C173,EMEA,Office Supplies,Cable Ties,6,63.96,383.76,completed
+1053,2024-10-10,C076,APAC,Furniture,Monitor Arm,4,99.67,398.68,completed
+1247,2024-10-10,C086,North America,Electronics,USB-C Hub,3,356.26,1068.78,completed
+1428,2024-10-10,C138,LATAM,Books,Good Strategy Bad Strategy,2,32.71,65.42,completed
+1507,2024-10-10,C147,LATAM,Clothing,Casual Shirt,1,116.02,116.02,completed
+1802,2024-10-10,C145,EMEA,Clothing,Waterproof Jacket,4,267.83,1071.32,completed
+1461,2024-10-11,C189,North America,Kitchen,Bamboo Cutting Board,6,45.59,273.54,completed
+1598,2024-10-11,C058,North America,Kitchen,Ceramic Mug Set,5,106.86,534.3,completed
+1240,2024-10-12,C043,EMEA,Electronics,Webcam,6,231.81,1390.86,completed
+1262,2024-10-12,C016,North America,Accessories,Sunglasses,1,98.33,98.33,completed
+1570,2024-10-12,C009,EMEA,Furniture,Bookshelf,6,149.27,895.62,completed
+2099,2024-10-12,C114,EMEA,Office Supplies,Gel Pen Pack,1,56.96,56.96,completed
+1296,2024-10-13,C111,APAC,Furniture,Bookshelf,3,175.87,527.61,completed
+1387,2024-10-13,C064,EMEA,Clothing,Running Shorts,6,174.4,1046.4,completed
+1458,2024-10-13,C122,North America,Clothing,Running Shorts,2,181.17,362.34,completed
+1535,2024-10-13,C010,APAC,Furniture,Monitor Arm,2,147.21,294.42,completed
+1345,2024-10-14,C197,EMEA,Books,Atomic Habits,4,28.44,113.76,completed
+1363,2024-10-14,C032,LATAM,Furniture,Bookshelf,3,112.58,337.74,completed
+1556,2024-10-14,C161,APAC,Clothing,Casual Shirt,4,345.45,1381.8,completed
+1781,2024-10-14,C166,EMEA,Furniture,Filing Cabinet,6,109.0,654.0,returned
+2028,2024-10-14,C156,North America,Clothing,Casual Shirt,2,177.7,355.4,completed
+2168,2024-10-14,C049,North America,Books,The Lean Startup,2,33.97,67.94,completed
+1007,2024-10-15,C081,LATAM,Electronics,Bluetooth Speaker,6,246.74,1480.44,pending
+1242,2024-10-15,C020,LATAM,Furniture,Bookshelf,3,116.65,349.95,completed
+1465,2024-10-15,C182,EMEA,Furniture,Filing Cabinet,1,85.35,85.35,completed
+2189,2024-10-15,C086,APAC,Furniture,Desk Lamp,6,146.69,880.14,completed
+1200,2024-10-16,C112,APAC,Clothing,Canvas Tote,5,407.92,2039.6,completed
+1234,2024-10-16,C150,EMEA,Books,Good Strategy Bad Strategy,5,42.92,214.6,completed
+2058,2024-10-16,C173,APAC,Electronics,Laptop Sleeve,6,155.79,934.74,completed
+1147,2024-10-17,C165,LATAM,Books,Thinking Fast and Slow,1,44.3,44.3,completed
+1731,2024-10-17,C079,APAC,Accessories,Canvas Backpack,6,37.2,223.2,completed
+1954,2024-10-17,C066,North America,Accessories,Leather Wallet,5,29.44,147.2,completed
+1443,2024-10-18,C065,APAC,Kitchen,Ceramic Mug Set,2,69.64,139.28,completed
+1741,2024-10-18,C024,LATAM,Electronics,Mechanical Keyboard,1,315.47,315.47,completed
+1783,2024-10-18,C158,LATAM,Furniture,Monitor Arm,3,212.79,638.37,completed
+1903,2024-10-18,C059,EMEA,Electronics,Webcam,3,283.26,849.78,completed
+1294,2024-10-19,C117,EMEA,Kitchen,Bamboo Cutting Board,3,99.58,298.74,completed
+1444,2024-10-19,C150,APAC,Office Supplies,Desk Organiser,2,50.0,100.0,completed
+1543,2024-10-19,C068,EMEA,Clothing,Wool Socks,1,380.02,380.02,completed
+1904,2024-10-20,C165,North America,Electronics,USB-C Hub,1,227.58,227.58,completed
+1906,2024-10-20,C065,EMEA,Kitchen,Pour-over Coffee Set,2,54.52,109.04,completed
+2064,2024-10-20,C187,LATAM,Books,The Lean Startup,5,42.16,210.8,completed
+2113,2024-10-20,C103,EMEA,Accessories,Phone Stand,4,68.88,275.52,completed
+2170,2024-10-20,C030,APAC,Kitchen,Bamboo Cutting Board,1,49.15,49.15,completed
+2172,2024-10-20,C109,EMEA,Electronics,Webcam,3,191.24,573.72,completed
+1475,2024-10-21,C017,APAC,Furniture,Ergonomic Chair,1,218.34,218.34,completed
+1575,2024-10-21,C042,North America,Furniture,Ergonomic Chair,2,76.14,152.28,completed
+1633,2024-10-21,C187,APAC,Accessories,Key Organiser,1,111.77,111.77,returned
+2121,2024-10-21,C066,APAC,Clothing,Canvas Tote,3,246.55,739.65,completed
+1203,2024-10-22,C029,EMEA,Books,Deep Work,6,17.72,106.32,completed
+1537,2024-10-22,C093,North America,Kitchen,Pour-over Coffee Set,6,126.78,760.68,completed
+1805,2024-10-22,C073,APAC,Office Supplies,Desk Organiser,3,22.73,68.19,completed
+1901,2024-10-22,C166,LATAM,Kitchen,Ceramic Mug Set,5,106.96,534.8,completed
+1012,2024-10-23,C017,APAC,Kitchen,Pour-over Coffee Set,3,96.91,290.73,completed
+1236,2024-10-23,C054,EMEA,Electronics,Bluetooth Speaker,4,178.18,712.72,completed
+1858,2024-10-23,C062,EMEA,Accessories,Umbrella,3,29.01,87.03,returned
+1086,2024-10-24,C131,North America,Electronics,Monitor Stand,3,99.06,297.18,completed
+1413,2024-10-24,C030,EMEA,Books,Deep Work,5,26.54,132.7,completed
+1971,2024-10-24,C012,LATAM,Books,The Design of Everyday Things,3,34.64,103.92,completed
+2085,2024-10-24,C037,North America,Furniture,Ergonomic Chair,1,43.32,43.32,completed
+1002,2024-10-25,C018,EMEA,Electronics,Mechanical Keyboard,1,81.8,81.8,completed
+1531,2024-10-25,C196,EMEA,Office Supplies,Notebook Set,2,41.87,83.74,pending
+1072,2024-10-26,C100,EMEA,Books,Good Strategy Bad Strategy,6,45.5,273.0,completed
+1313,2024-10-26,C139,APAC,Furniture,Bookshelf,1,61.88,61.88,completed
+1361,2024-10-26,C023,LATAM,Clothing,Chino Trousers,6,273.76,1642.56,completed
+1679,2024-10-26,C058,LATAM,Kitchen,French Press,3,162.36,487.08,completed
+1040,2024-10-27,C091,LATAM,Clothing,Running Shorts,2,104.36,208.72,returned
+1391,2024-10-27,C174,APAC,Office Supplies,Desk Organiser,5,38.57,192.85,completed
+1683,2024-10-27,C147,EMEA,Accessories,Travel Mug,4,26.51,106.04,completed
+1704,2024-10-27,C160,LATAM,Electronics,Laptop Sleeve,4,342.77,1371.08,completed
+2022,2024-10-28,C070,North America,Electronics,Wireless Headphones,3,331.24,993.72,completed
+2054,2024-10-28,C110,LATAM,Electronics,Mechanical Keyboard,5,69.83,349.15,completed
+2131,2024-10-28,C028,EMEA,Electronics,Webcam,1,286.59,286.59,completed
+1596,2024-10-29,C029,APAC,Office Supplies,Document Folder,1,46.73,46.73,completed
+2128,2024-10-29,C140,APAC,Clothing,Waterproof Jacket,6,116.95,701.7,returned
+1314,2024-10-30,C102,EMEA,Clothing,Waterproof Jacket,6,309.14,1854.84,pending
+1758,2024-10-30,C131,LATAM,Furniture,Bookshelf,5,75.63,378.15,completed
+1128,2024-10-31,C122,APAC,Books,Python Crash Course,1,42.69,42.69,completed
+1968,2024-11-01,C097,LATAM,Clothing,Merino Wool Jumper,2,220.55,441.1,completed
+2011,2024-11-01,C093,LATAM,Accessories,Key Organiser,5,25.3,126.5,completed
+1143,2024-11-02,C048,APAC,Accessories,Canvas Backpack,3,63.81,191.43,completed
+1865,2024-11-02,C067,LATAM,Kitchen,Reusable Containers,2,148.34,296.68,completed
+2130,2024-11-02,C062,APAC,Kitchen,Bamboo Cutting Board,1,90.18,90.18,completed
+1268,2024-11-03,C097,LATAM,Kitchen,Reusable Containers,2,81.51,163.02,returned
+1431,2024-11-03,C059,EMEA,Furniture,Filing Cabinet,6,192.12,1152.72,completed
+1449,2024-11-03,C070,North America,Electronics,Wireless Headphones,6,100.57,603.42,completed
+1141,2024-11-04,C159,APAC,Clothing,Canvas Tote,1,334.98,334.98,returned
+1269,2024-11-04,C068,LATAM,Kitchen,Ceramic Mug Set,3,130.79,392.37,completed
+1448,2024-11-04,C034,APAC,Clothing,Running Shorts,2,176.69,353.38,completed
+1702,2024-11-05,C099,APAC,Books,The Design of Everyday Things,2,43.24,86.48,completed
+1337,2024-11-06,C091,LATAM,Electronics,Laptop Sleeve,6,219.42,1316.52,returned
+1620,2024-11-06,C002,LATAM,Electronics,Webcam,1,308.9,308.9,completed
+1058,2024-11-07,C142,North America,Kitchen,Pour-over Coffee Set,1,93.7,93.7,completed
+1379,2024-11-07,C142,North America,Electronics,Bluetooth Speaker,2,190.87,381.74,completed
+1593,2024-11-07,C021,North America,Clothing,Waterproof Jacket,1,223.9,223.9,completed
+1676,2024-11-07,C099,LATAM,Kitchen,Reusable Containers,4,110.78,443.12,returned
+1768,2024-11-07,C018,North America,Office Supplies,Document Folder,1,34.67,34.67,completed
+1432,2024-11-08,C151,North America,Furniture,Bookshelf,5,78.94,394.7,completed
+1518,2024-11-08,C047,LATAM,Furniture,Monitor Arm,2,198.05,396.1,completed
+1786,2024-11-08,C126,LATAM,Clothing,Running Shorts,3,423.38,1270.14,completed
+1592,2024-11-09,C070,APAC,Books,Python Crash Course,5,33.4,167.0,completed
+1606,2024-11-09,C185,North America,Accessories,Leather Wallet,2,64.81,129.62,completed
+1225,2024-11-10,C004,North America,Clothing,Merino Wool Jumper,3,232.73,698.19,completed
+1785,2024-11-10,C068,North America,Kitchen,Reusable Containers,3,123.51,370.53,completed
+1252,2024-11-11,C118,APAC,Electronics,Monitor Stand,2,64.61,129.22,completed
+1384,2024-11-11,C114,APAC,Kitchen,Bamboo Cutting Board,3,171.53,514.59,completed
+1625,2024-11-11,C143,LATAM,Furniture,Ergonomic Chair,1,52.98,52.98,completed
+1290,2024-11-12,C006,EMEA,Kitchen,Chef Knife,4,173.36,693.44,completed
+1502,2024-11-12,C019,North America,Clothing,Canvas Tote,1,346.24,346.24,completed
+1756,2024-11-12,C037,EMEA,Furniture,Bookshelf,6,79.33,475.98,completed
+1144,2024-11-13,C105,APAC,Clothing,Waterproof Jacket,4,299.22,1196.88,completed
+1578,2024-11-13,C101,LATAM,Clothing,Casual Shirt,1,352.62,352.62,completed
+1957,2024-11-13,C033,EMEA,Electronics,Wireless Headphones,6,302.96,1817.76,returned
+1191,2024-11-14,C028,EMEA,Office Supplies,Whiteboard Markers,2,10.37,20.74,completed
+1192,2024-11-14,C036,EMEA,Books,Deep Work,6,9.21,55.26,completed
+1346,2024-11-15,C044,North America,Books,The Design of Everyday Things,6,30.27,181.62,completed
+1433,2024-11-15,C120,North America,Electronics,Bluetooth Speaker,6,223.07,1338.42,completed
+1882,2024-11-15,C046,EMEA,Electronics,Monitor Stand,3,348.37,1045.11,completed
+2104,2024-11-15,C181,North America,Furniture,Desk Lamp,6,41.3,247.8,returned
+1253,2024-11-16,C168,EMEA,Kitchen,Pour-over Coffee Set,1,88.61,88.61,completed
+1004,2024-11-17,C143,LATAM,Office Supplies,Notebook Set,1,78.29,78.29,completed
+1291,2024-11-17,C094,North America,Electronics,USB-C Hub,2,226.69,453.38,completed
+1398,2024-11-17,C192,North America,Office Supplies,Cable Ties,6,25.71,154.26,completed
+1640,2024-11-17,C014,APAC,Clothing,Merino Wool Jumper,4,144.45,577.8,completed
+1844,2024-11-17,C131,North America,Accessories,Key Organiser,5,71.35,356.75,returned
+2055,2024-11-17,C101,EMEA,Furniture,Filing Cabinet,5,133.48,667.4,completed
+2169,2024-11-17,C051,LATAM,Office Supplies,Document Folder,5,12.96,64.8,completed
+1266,2024-11-18,C146,LATAM,Kitchen,Spice Rack,4,171.3,685.2,pending
+1487,2024-11-18,C135,LATAM,Kitchen,French Press,3,134.52,403.56,completed
+1607,2024-11-18,C081,North America,Office Supplies,Whiteboard Markers,6,19.78,118.68,completed
+2078,2024-11-18,C193,EMEA,Office Supplies,Sticky Notes,2,43.19,86.38,completed
+1196,2024-11-19,C053,EMEA,Clothing,Merino Wool Jumper,1,396.79,396.79,completed
+1555,2024-11-19,C118,North America,Electronics,Laptop Sleeve,2,138.84,277.68,completed
+2142,2024-11-19,C092,North America,Electronics,Laptop Sleeve,4,170.38,681.52,completed
+1438,2024-11-20,C175,North America,Electronics,Laptop Sleeve,2,372.94,745.88,completed
+1065,2024-11-21,C190,APAC,Electronics,USB-C Hub,2,55.27,110.54,completed
+1204,2024-11-21,C103,APAC,Kitchen,Spice Rack,6,73.61,441.66,completed
+1463,2024-11-21,C028,LATAM,Books,Good Strategy Bad Strategy,4,16.91,67.64,completed
+1178,2024-11-22,C015,North America,Electronics,Monitor Stand,4,350.28,1401.12,completed
+1233,2024-11-22,C022,EMEA,Electronics,USB-C Hub,3,366.14,1098.42,completed
+1929,2024-11-22,C075,EMEA,Electronics,Wireless Headphones,5,241.53,1207.65,completed
+2162,2024-11-22,C187,North America,Office Supplies,Document Folder,6,8.04,48.24,completed
+1304,2024-11-23,C123,APAC,Kitchen,Spice Rack,1,86.7,86.7,pending
+1616,2024-11-23,C027,EMEA,Books,The Lean Startup,2,46.04,92.08,completed
+1217,2024-11-24,C117,EMEA,Accessories,Key Organiser,6,38.33,229.98,completed
+1602,2024-11-24,C159,LATAM,Furniture,Standing Desk,4,214.45,857.8,returned
+2023,2024-11-24,C004,North America,Books,Deep Work,3,35.65,106.95,returned
+2100,2024-11-24,C186,APAC,Office Supplies,Document Folder,2,11.72,23.44,completed
+2160,2024-11-24,C120,LATAM,Kitchen,Chef Knife,2,92.89,185.78,completed
+1841,2024-11-25,C187,EMEA,Kitchen,French Press,3,103.96,311.88,completed
+1860,2024-11-25,C080,LATAM,Kitchen,Pour-over Coffee Set,1,59.5,59.5,completed
+2081,2024-11-25,C060,North America,Accessories,Travel Mug,3,48.52,145.56,completed
+1179,2024-11-26,C127,LATAM,Kitchen,Bamboo Cutting Board,5,170.07,850.35,returned
+1286,2024-11-27,C002,APAC,Kitchen,Spice Rack,1,44.88,44.88,pending
+1401,2024-11-27,C065,EMEA,Kitchen,Bamboo Cutting Board,3,43.54,130.62,completed
+1486,2024-11-27,C061,North America,Kitchen,Reusable Containers,5,108.3,541.5,completed
+1626,2024-11-27,C158,APAC,Kitchen,Reusable Containers,6,30.57,183.42,completed
+1642,2024-11-27,C031,APAC,Clothing,Chino Trousers,6,184.08,1104.48,returned
+1687,2024-11-27,C054,North America,Books,Thinking Fast and Slow,2,49.08,98.16,completed
+2025,2024-11-27,C164,North America,Clothing,Merino Wool Jumper,2,164.84,329.68,completed
+2048,2024-11-27,C024,EMEA,Furniture,Ergonomic Chair,5,78.74,393.7,completed
+1230,2024-11-28,C069,LATAM,Electronics,Laptop Sleeve,3,339.93,1019.79,completed
+1591,2024-11-28,C099,EMEA,Furniture,Bookshelf,6,166.74,1000.44,returned
+1641,2024-11-28,C023,LATAM,Accessories,Canvas Backpack,5,95.26,476.3,completed
+2143,2024-11-28,C064,North America,Office Supplies,Whiteboard Markers,2,64.15,128.3,completed
+1082,2024-11-29,C069,EMEA,Accessories,Travel Mug,1,72.03,72.03,completed
+2094,2024-11-29,C087,LATAM,Electronics,Laptop Sleeve,4,291.45,1165.8,completed
+2139,2024-11-29,C017,EMEA,Kitchen,Ceramic Mug Set,2,76.59,153.18,completed
+1667,2024-11-30,C166,LATAM,Kitchen,Pour-over Coffee Set,6,138.99,833.94,completed
+1763,2024-11-30,C174,APAC,Accessories,Phone Stand,6,34.28,205.68,completed
+1862,2024-11-30,C010,North America,Kitchen,Ceramic Mug Set,5,60.01,300.05,completed
+2184,2024-11-30,C020,North America,Furniture,Desk Lamp,3,58.94,176.82,completed
+1020,2024-12-01,C102,LATAM,Accessories,Leather Wallet,6,107.36,644.16,completed
+1070,2024-12-01,C037,APAC,Clothing,Running Shorts,1,185.67,185.67,completed
+1382,2024-12-01,C082,APAC,Clothing,Merino Wool Jumper,2,352.43,704.86,completed
+1848,2024-12-01,C016,North America,Accessories,Travel Mug,6,19.88,119.28,completed
+2008,2024-12-01,C189,APAC,Furniture,Ergonomic Chair,1,127.68,127.68,completed
+1162,2024-12-02,C200,EMEA,Electronics,Monitor Stand,1,391.19,391.19,completed
+1411,2024-12-02,C049,North America,Accessories,Travel Mug,5,117.13,585.65,completed
+1456,2024-12-02,C183,North America,Books,The Design of Everyday Things,2,39.13,78.26,completed
+1893,2024-12-02,C130,EMEA,Books,Atomic Habits,4,46.58,186.32,completed
+2077,2024-12-02,C021,APAC,Electronics,Wireless Headphones,2,259.54,519.08,completed
+1063,2024-12-03,C130,LATAM,Kitchen,Spice Rack,5,153.87,769.35,completed
+1464,2024-12-03,C059,LATAM,Accessories,Leather Wallet,6,114.77,688.62,completed
+1523,2024-12-03,C179,LATAM,Kitchen,Chef Knife,6,89.08,534.48,completed
+1492,2024-12-04,C032,APAC,Furniture,Monitor Arm,3,108.63,325.89,completed
+1562,2024-12-04,C097,APAC,Office Supplies,Gel Pen Pack,2,57.17,114.34,completed
+1652,2024-12-04,C025,North America,Office Supplies,Cable Ties,2,11.29,22.58,completed
+2002,2024-12-04,C130,EMEA,Clothing,Casual Shirt,2,455.66,911.32,completed
+2176,2024-12-04,C007,APAC,Electronics,Bluetooth Speaker,5,393.81,1969.05,completed
+1516,2024-12-05,C083,APAC,Electronics,USB-C Hub,5,75.03,375.15,completed
+1545,2024-12-05,C182,EMEA,Office Supplies,Gel Pen Pack,5,63.8,319.0,completed
+1689,2024-12-05,C029,EMEA,Furniture,Bookshelf,2,155.16,310.32,completed
+1526,2024-12-06,C075,APAC,Books,Thinking Fast and Slow,3,23.96,71.88,completed
+2062,2024-12-06,C108,EMEA,Office Supplies,Document Folder,1,58.11,58.11,completed
+1392,2024-12-07,C004,LATAM,Electronics,Webcam,2,92.36,184.72,completed
+1601,2024-12-07,C019,North America,Kitchen,Pour-over Coffee Set,5,74.05,370.25,completed
+1941,2024-12-07,C132,North America,Accessories,Phone Stand,4,91.74,366.96,completed
+1320,2024-12-08,C163,LATAM,Electronics,Bluetooth Speaker,4,337.33,1349.32,completed
+1352,2024-12-08,C137,LATAM,Electronics,Bluetooth Speaker,5,259.8,1299.0,completed
+1675,2024-12-08,C040,North America,Accessories,Umbrella,2,44.7,89.4,completed
+2183,2024-12-08,C007,APAC,Kitchen,Chef Knife,4,100.61,402.44,completed
+1629,2024-12-09,C025,APAC,Furniture,Ergonomic Chair,5,133.54,667.7,completed
+1083,2024-12-10,C119,LATAM,Electronics,Bluetooth Speaker,3,312.28,936.84,completed
+1558,2024-12-10,C155,LATAM,Kitchen,Bamboo Cutting Board,3,22.71,68.13,completed
+1984,2024-12-10,C190,North America,Kitchen,Ceramic Mug Set,1,70.4,70.4,completed
+2012,2024-12-10,C159,APAC,Clothing,Waterproof Jacket,5,213.78,1068.9,completed
+1135,2024-12-11,C069,APAC,Clothing,Running Shorts,3,197.51,592.53,completed
+1334,2024-12-11,C195,North America,Clothing,Running Shorts,5,118.02,590.1,pending
+2177,2024-12-11,C151,APAC,Electronics,Mechanical Keyboard,1,335.93,335.93,completed
+1289,2024-12-12,C020,EMEA,Books,Thinking Fast and Slow,1,14.59,14.59,completed
+1344,2024-12-12,C167,APAC,Electronics,Bluetooth Speaker,4,188.53,754.12,completed
+2103,2024-12-14,C176,LATAM,Clothing,Running Shorts,1,225.54,225.54,completed
+1400,2024-12-15,C048,North America,Electronics,Laptop Sleeve,6,278.21,1669.26,completed
+1557,2024-12-15,C168,LATAM,Kitchen,Bamboo Cutting Board,4,171.8,687.2,completed
+1727,2024-12-15,C089,APAC,Clothing,Casual Shirt,1,425.22,425.22,completed
+1793,2024-12-15,C174,APAC,Books,Thinking Fast and Slow,1,39.46,39.46,completed
+1943,2024-12-15,C118,EMEA,Accessories,Phone Stand,3,116.48,349.44,completed
+1982,2024-12-15,C139,LATAM,Furniture,Standing Desk,3,185.05,555.15,completed
+2072,2024-12-15,C179,EMEA,Clothing,Chino Trousers,2,434.14,868.28,completed
+1081,2024-12-16,C066,EMEA,Clothing,Merino Wool Jumper,1,319.88,319.88,completed
+1259,2024-12-16,C121,APAC,Accessories,Key Organiser,2,115.39,230.78,completed
+1471,2024-12-16,C039,EMEA,Electronics,Wireless Headphones,1,99.35,99.35,completed
+1477,2024-12-16,C020,APAC,Office Supplies,Cable Ties,5,33.46,167.3,completed
+1618,2024-12-16,C121,APAC,Accessories,Sunglasses,5,99.14,495.7,completed
+1914,2024-12-16,C162,APAC,Furniture,Filing Cabinet,1,86.6,86.6,completed
+2038,2024-12-16,C119,APAC,Electronics,Wireless Headphones,3,395.37,1186.11,completed
+1103,2024-12-17,C099,EMEA,Furniture,Monitor Arm,1,88.78,88.78,completed
+1940,2024-12-17,C096,LATAM,Furniture,Standing Desk,4,163.33,653.32,completed
+1057,2024-12-18,C022,North America,Clothing,Merino Wool Jumper,1,333.78,333.78,completed
+2007,2024-12-18,C084,North America,Electronics,Bluetooth Speaker,3,74.77,224.31,completed
+1348,2024-12-19,C131,LATAM,Clothing,Running Shorts,6,142.56,855.36,completed
+1429,2024-12-19,C125,LATAM,Kitchen,Bamboo Cutting Board,1,25.91,25.91,completed
+2029,2024-12-19,C061,EMEA,Electronics,Bluetooth Speaker,1,122.91,122.91,completed
+2190,2024-12-19,C165,APAC,Electronics,Bluetooth Speaker,6,164.09,984.54,completed
+1076,2024-12-20,C027,APAC,Accessories,Leather Wallet,1,32.91,32.91,completed
+1193,2024-12-20,C196,APAC,Accessories,Leather Wallet,6,23.23,139.38,completed
+1303,2024-12-20,C073,APAC,Accessories,Sunglasses,5,108.79,543.95,completed
+1390,2024-12-20,C037,North America,Furniture,Monitor Arm,6,93.89,563.34,returned
+1547,2024-12-20,C152,North America,Electronics,USB-C Hub,1,349.9,349.9,completed
+1202,2024-12-21,C067,LATAM,Kitchen,Ceramic Mug Set,5,76.86,384.3,completed
+1697,2024-12-22,C061,EMEA,Clothing,Waterproof Jacket,2,186.05,372.1,returned
+1701,2024-12-22,C049,North America,Books,Atomic Habits,3,29.07,87.21,completed
+1726,2024-12-22,C088,North America,Electronics,Laptop Sleeve,3,113.94,341.82,pending
+1964,2024-12-23,C004,APAC,Furniture,Bookshelf,5,108.13,540.65,completed
+1107,2024-12-24,C001,LATAM,Accessories,Key Organiser,1,79.77,79.77,completed
+1276,2024-12-24,C064,North America,Clothing,Running Shorts,4,391.86,1567.44,completed
+1889,2024-12-24,C072,LATAM,Office Supplies,Sticky Notes,2,75.64,151.28,completed
+1829,2024-12-25,C176,APAC,Clothing,Casual Shirt,2,243.18,486.36,completed
+1231,2024-12-26,C185,LATAM,Furniture,Bookshelf,6,73.46,440.76,completed
+1972,2024-12-26,C016,APAC,Clothing,Wool Socks,2,208.15,416.3,returned
+1974,2024-12-26,C026,North America,Accessories,Umbrella,5,83.71,418.55,pending
+1017,2024-12-27,C039,LATAM,Furniture,Bookshelf,2,67.17,134.34,completed
+1369,2024-12-27,C064,LATAM,Books,The Design of Everyday Things,5,49.58,247.9,completed
+1525,2024-12-27,C039,North America,Office Supplies,Gel Pen Pack,3,31.36,94.08,completed
+1955,2024-12-27,C200,North America,Accessories,Phone Stand,6,48.7,292.2,completed
+2145,2024-12-28,C192,APAC,Kitchen,Pour-over Coffee Set,4,175.89,703.56,completed
+1351,2024-12-29,C004,North America,Accessories,Leather Wallet,4,112.32,449.28,completed
+1219,2024-12-30,C105,LATAM,Office Supplies,Desk Organiser,4,40.77,163.08,completed
+1509,2024-12-30,C150,APAC,Clothing,Canvas Tote,5,356.41,1782.05,completed
+1837,2024-12-30,C024,LATAM,Kitchen,Ceramic Mug Set,4,50.38,201.52,completed
+2096,2024-12-30,C116,North America,Accessories,Sunglasses,5,80.19,400.95,completed
